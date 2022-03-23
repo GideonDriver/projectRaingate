@@ -1804,3 +1804,411 @@
 11:29:01,370  INFO LoginDAOImpl:102 - Joe Miller signed in
 11:29:01,981  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
 11:29:02,008  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+11:34:02,388  INFO LoginDAOImpl:102 - Joe Miller signed in
+11:34:02,425  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+11:34:02,451  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+11:34:42,435  INFO LoginDAOImpl:45 - Userid 11 made reimbursement request
+11:34:42,558  INFO LoginDAOImpl:102 - Joe Miller signed in
+11:34:42,587  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+11:34:42,615  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+11:38:40,853  INFO LoginDAOImpl:73 - Markus Pearson updated user info
+11:38:41,000  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:38:41,028  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+11:38:41,055  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+11:39:35,598  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:39:35,628  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+11:39:35,655  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+11:39:35,682  INFO LoginDAOImpl:138 - 11 pulled employees table
+11:40:09,429  INFO LoginDAOImpl:212 - Userid 11 updated reimbursement request Id: 12 to approve
+11:40:09,543  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:40:09,572  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+11:40:09,600  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+11:40:09,625  INFO LoginDAOImpl:138 - 11 pulled employees table
+11:40:16,638  INFO LoginDAOImpl:212 - Userid 11 updated reimbursement request Id: 37 to deny
+11:40:16,895  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:40:16,926  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+11:40:16,955  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+11:40:16,982  INFO LoginDAOImpl:138 - 11 pulled employees table
+11:40:25,199  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:40:25,228  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+11:40:25,255  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+11:40:25,280  INFO LoginDAOImpl:138 - 11 pulled employees table
+11:43:31,232  INFO LoginDAOImpl:105 - jmiller@raingate.com attempted to sign in, invalid credidentials
+11:44:17,472  INFO LoginDAOImpl:44 - Joe Miller signed up
+11:44:17,583  INFO LoginDAOImpl:102 - Joe Miller signed in
+11:44:17,611  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+11:44:17,636  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+11:47:06,170  INFO LoginDAOImpl:102 - Merle Oldacres signed in
+11:47:06,198  INFO LoginDAOImpl:82 - Userid 1 pulled pending requests
+11:47:06,224  INFO LoginDAOImpl:118 - Userid 1 pulled resolved requests
+11:47:36,675  INFO LoginDAOImpl:102 - Merle Oldacres signed in
+11:47:36,701  INFO LoginDAOImpl:82 - Userid 1 pulled pending requests
+11:47:36,727  INFO LoginDAOImpl:118 - Userid 1 pulled resolved requests
+11:48:42,513  INFO LoginDAOImpl:102 - Merle Oldacres signed in
+11:48:42,541  INFO LoginDAOImpl:82 - Userid 1 pulled pending requests
+11:48:42,566  INFO LoginDAOImpl:118 - Userid 1 pulled resolved requests
+11:48:56,943  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:48:56,970  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+11:48:56,995  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+11:48:57,020  INFO LoginDAOImpl:138 - 11 pulled employees table
+11:49:10,283  INFO LoginDAOImpl:102 - Markus Pearson signed in
+11:49:10,311  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+11:49:10,445  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+11:49:10,470  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:07:21,211  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:07:21,239  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:07:21,263  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:07:36,829  INFO LoginDAOImpl:45 - Userid 12 made reimbursement request
+12:07:36,947  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:07:36,974  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:07:37,000  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:09:08,264  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:09:08,292  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:09:08,318  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:09:40,547  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:09:40,575  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:09:40,601  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:11:06,019  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:11:06,209  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:11:06,235  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:11:34,124  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:11:34,298  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:11:34,324  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:12:35,123  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:12:35,288  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:12:35,314  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:13:16,836  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:13:17,002  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:13:17,029  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:13:46,643  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:13:46,807  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:13:46,844  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:15:01,129  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:15:01,409  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:15:01,438  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:15:26,133  INFO LoginDAOImpl:102 - Joe Miller signed in
+12:15:26,277  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+12:15:26,306  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+12:31:49,988  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:31:50,150  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:31:50,175  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:31:50,200  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:33:36,641  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:33:36,792  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:33:36,817  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:33:36,841  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:33:49,071  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:33:49,225  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:33:49,355  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:33:49,380  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:35:16,120  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:35:16,277  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:35:16,302  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:35:16,327  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:35:28,088  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:35:28,245  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:35:28,270  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:35:28,295  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:35:42,384  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:35:42,547  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:35:42,683  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:35:42,707  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:35:53,416  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:35:53,566  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:35:53,591  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:35:53,616  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:36:05,609  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:36:05,759  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:36:05,785  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:36:05,917  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:36:19,596  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:36:19,752  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:36:19,779  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:36:19,803  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:36:28,554  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:36:28,687  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:36:28,716  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:36:28,742  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:42:58,418  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:42:58,445  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:42:58,473  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:42:58,609  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:44:01,090  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:44:01,358  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:44:01,384  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:44:01,410  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:44:17,009  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:44:17,035  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:44:17,061  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:44:17,086  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:44:35,091  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:44:35,169  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:44:35,201  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:44:35,236  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:45:34,625  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:45:35,269  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:45:35,295  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:45:35,321  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:45:51,505  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:45:51,721  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:45:51,752  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:45:51,884  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:46:17,347  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:46:17,545  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:46:17,572  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:46:17,600  INFO LoginDAOImpl:138 - 11 pulled employees table
+12:46:49,785  INFO LoginDAOImpl:102 - Markus Pearson signed in
+12:46:49,959  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+12:46:49,986  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+12:46:50,012  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:04:27,538  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:04:27,720  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:04:27,749  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:04:27,776  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:05:12,571  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:05:12,746  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:05:12,778  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:05:12,806  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:05:15,985  INFO LoginDAOImpl:212 - Userid 11 updated reimbursement request Id: 27 to approve
+13:05:16,096  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:05:16,123  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:05:16,151  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:05:16,175  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:05:39,201  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:05:39,362  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:05:39,397  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:05:39,428  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:08:52,742  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:08:52,910  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:08:52,942  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:08:52,972  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:09:00,858  INFO LoginDAOImpl:212 - Userid 11 updated reimbursement request Id: 2 to deny
+13:09:00,970  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:09:00,998  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:09:01,024  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:09:01,050  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:09:13,987  INFO LoginDAOImpl:212 - Userid 11 updated reimbursement request Id: 1 to deny
+13:09:14,102  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:09:14,138  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:09:14,166  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:09:14,191  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:16:12,576  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:16:12,746  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:16:12,776  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:16:12,803  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:19:01,758  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:19:01,931  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:19:01,960  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:19:01,989  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:19:22,160  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:19:22,188  INFO LoginDAOImpl:152 - Userid 11 pulled pending requests
+13:19:22,214  INFO LoginDAOImpl:186 - Userid 11 pulled resolved requests
+13:19:22,239  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:47:24,558  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:47:24,721  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:47:24,750  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:48:40,920  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:48:40,948  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:48:40,974  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:48:51,737  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:48:51,773  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:48:51,799  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:48:52,350  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:48:52,375  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:48:52,402  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:48:52,523  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:48:52,550  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:48:52,575  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:50:24,803  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:50:24,833  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:50:24,860  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:50:38,113  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:50:38,251  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:50:38,279  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:51:25,283  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:51:25,310  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:51:25,336  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:54:49,602  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:54:49,763  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:54:49,788  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:55:38,008  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:55:38,173  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:55:38,199  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:56:09,318  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:56:09,474  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:56:09,503  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:56:38,886  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:56:39,043  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:56:39,072  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:56:39,104  INFO LoginDAOImpl:154 - Userid 0 pulled resolved requests
+13:56:39,130  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:56:44,360  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:56:44,388  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:56:44,416  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:56:44,441  INFO LoginDAOImpl:154 - Userid 4 pulled resolved requests
+13:56:44,466  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:56:49,567  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:56:49,595  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:56:49,621  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:56:49,645  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+13:56:49,670  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:57:24,663  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:57:24,803  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:57:24,829  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:57:24,856  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+13:57:24,881  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:58:43,076  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:58:43,114  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:58:43,140  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:58:43,173  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+13:58:43,199  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:58:46,911  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:58:46,939  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:58:46,966  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:58:46,989  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+13:58:47,015  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:59:50,755  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:59:50,910  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:59:50,937  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:59:50,972  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+13:59:50,997  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:59:59,389  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:59:59,419  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+13:59:59,444  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+13:59:59,467  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+13:59:59,493  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:00:41,914  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:00:42,085  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+14:00:42,113  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+14:00:42,137  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:00:42,164  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:00:48,468  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:00:48,499  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+14:00:48,524  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+14:00:48,648  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:00:48,673  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:00:50,934  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:00:50,961  INFO LoginDAOImpl:188 - Userid 11 pulled pending requests
+14:00:50,986  INFO LoginDAOImpl:222 - Userid 11 pulled resolved requests
+14:00:51,011  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:00:51,035  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:03:49,530  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:03:49,568  INFO LoginDAOImpl:189 - Userid 11 pulled pending requests
+14:03:49,593  INFO LoginDAOImpl:223 - Userid 11 pulled resolved requests
+14:03:49,624  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:03:49,649  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:03:55,406  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:03:55,433  INFO LoginDAOImpl:189 - Userid 11 pulled pending requests
+14:03:55,568  INFO LoginDAOImpl:223 - Userid 11 pulled resolved requests
+14:03:55,592  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:03:55,616  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:04:40,589  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:04:40,617  INFO LoginDAOImpl:189 - Userid 11 pulled pending requests
+14:04:40,642  INFO LoginDAOImpl:223 - Userid 11 pulled resolved requests
+14:04:40,666  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:04:40,690  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:04:43,874  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:04:43,901  INFO LoginDAOImpl:189 - Userid 11 pulled pending requests
+14:04:43,930  INFO LoginDAOImpl:223 - Userid 11 pulled resolved requests
+14:04:43,954  INFO LoginDAOImpl:154 - Userid 1 pulled resolved requests
+14:04:43,980  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:04:52,101  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:04:52,138  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:04:52,164  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:04:52,194  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:04:52,220  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:04:54,461  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:04:54,487  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:04:54,513  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:04:54,536  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:04:54,562  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:06:05,865  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:06:05,905  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:06:05,932  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:06:05,961  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:06:05,987  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:06:07,799  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:06:07,826  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:06:07,852  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:06:07,876  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:06:07,901  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:06:22,872  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:06:22,947  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:06:22,977  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:06:23,015  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:06:23,041  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:06:25,003  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:06:25,032  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:06:25,057  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:06:25,081  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:06:25,107  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:07:33,110  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:07:33,186  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:07:33,215  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:07:33,247  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:07:33,380  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:07:35,079  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:07:35,106  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:07:35,132  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:07:35,157  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:07:35,183  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:07:50,845  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:07:50,872  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:07:50,899  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:07:50,925  INFO LoginDAOImpl:156 - Userid 1 pulled resolved requests
+14:07:50,949  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:08:04,419  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:08:04,451  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:08:04,478  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:08:04,504  INFO LoginDAOImpl:156 - Userid 2 pulled resolved requests
+14:08:04,530  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:08:07,643  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:08:07,673  INFO LoginDAOImpl:191 - Userid 11 pulled pending requests
+14:08:07,700  INFO LoginDAOImpl:225 - Userid 11 pulled resolved requests
+14:08:07,726  INFO LoginDAOImpl:156 - Userid 3 pulled resolved requests
+14:08:07,751  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:10:52,936  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:10:53,553  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:10:53,580  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:10:53,606  INFO LoginDAOImpl:153 - Userid 3 pulled resolved requests
+14:10:53,633  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:10:56,133  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:10:56,158  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:10:56,183  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:10:56,208  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+14:10:56,233  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:11:38,071  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:11:38,785  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:11:38,815  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:11:38,845  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+14:11:38,875  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:11:41,724  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:11:41,752  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:11:41,777  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:11:41,802  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+14:11:41,936  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:11:44,421  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:11:44,457  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:11:44,485  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:11:44,511  INFO LoginDAOImpl:153 - Userid 2 pulled resolved requests
+14:11:44,536  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:11:58,157  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:11:58,187  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:11:58,214  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:11:58,241  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+14:11:58,266  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:49:38,714  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:49:39,398  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:49:39,430  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:49:39,465  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+14:49:39,494  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:51:42,894  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:51:43,601  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:51:43,632  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:51:43,662  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+14:51:43,690  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:54:26,766  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:54:26,806  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:54:26,832  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:54:26,859  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+14:54:26,883  INFO LoginDAOImpl:138 - 11 pulled employees table

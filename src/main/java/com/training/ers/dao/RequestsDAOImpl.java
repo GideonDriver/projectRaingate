@@ -120,6 +120,41 @@ public class RequestsDAOImpl implements RequestsDAO{
 	}
 
 	@Override
+	public List<Reimbursement> viewAllUserRequests(int userId) {
+		Connection connection = DBConnection.getConnection();
+		PreparedStatement statement;
+		List<Reimbursement> allReimbursements = new ArrayList<Reimbursement>();
+		NumberFormat defaultFormat = NumberFormat.getCurrencyInstance();
+		try {
+			statement = connection.prepareStatement("select * from reimbursements where requesterId = ? order by dateTime DESC");
+			statement.setInt(1, userId);
+
+			ResultSet result = statement.executeQuery();
+			while (result.next()) {
+				Reimbursement reimbursement = new Reimbursement();
+				reimbursement.setReimbursementId(result.getInt(1));
+				reimbursement.setRequesterId(result.getInt(2));
+				reimbursement.setReason(result.getString(3));
+				reimbursement.setAmount(result.getDouble(4));
+				reimbursement.setFormattedAmount(defaultFormat.format(result.getDouble(4)));
+				reimbursement.setNote(result.getString(5));
+				reimbursement.setStatus(result.getString(6));
+				reimbursement.setDateTime(result.getString(7));
+				allReimbursements.add(reimbursement);
+			}
+			
+		    try { result.close(); } catch (Exception e) {}
+		    try { statement.close(); } catch (Exception e) {}
+		    try { connection.close(); } catch (Exception e) {}
+		    
+		} catch (SQLException e) {
+			// e.printStackTrace();
+		}
+		logger.info("Userid "+userId+" pulled resolved requests");
+		return allReimbursements;
+	}
+
+	@Override
 	public List<Reimbursement> viewPendingRequests(int userId) {
 		Connection connection = DBConnection.getConnection();
 		PreparedStatement statement;

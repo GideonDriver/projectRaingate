@@ -10,6 +10,7 @@ public interface RequestsDAO {
 	
 	public List<Reimbursement> viewUserPendingRequests(int userId);
 	public List<Reimbursement> viewUserResolvedRequests(int userId);
+	public List<Reimbursement> viewAllUserRequests(int userId);
 
 	public List<Reimbursement> viewPendingRequests(int userId);
 	public List<Reimbursement> viewResolvedRequests(int userId);

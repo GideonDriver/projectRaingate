@@ -56,6 +56,8 @@ public class LoginController extends HttpServlet {
 		session.setAttribute("accountType", currentUser.getAccountType());
 		session.setAttribute("active", currentUser.isActive());
 		System.out.println(currentUser);
+
+		session.setAttribute("navSelection", 1);
 		
 		RequestDispatcher dispatcherHeader = request.getRequestDispatcher("menuHeader.jsp");
 		dispatcherHeader.include(request, response);

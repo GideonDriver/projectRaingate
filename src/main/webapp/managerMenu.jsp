@@ -31,27 +31,65 @@
 	}
 	function updateRequest(requestId, status) {
 		console.log(status+": "+requestId);
-	    var form = document.createElement("form");
+	    var updateRequestForm = document.createElement("form");
+	    var element1 = document.createElement("input"); 
+	    var element2 = document.createElement("input");  
+	    var element3 = document.createElement("input");  
+
+	    updateRequestForm.method = "POST";
+	    updateRequestForm.action = "RequestController";   
+
+	    element1.value="updateRequest";
+	    element1.name="requestType";
+	    updateRequestForm.appendChild(element1);  
+
+	    element2.value=requestId;
+	    element2.name="reimbursementId";
+	    updateRequestForm.appendChild(element2);  
+
+	    element3.value=status;
+	    element3.name="status";
+	    updateRequestForm.appendChild(element3);
+
+	   	document.body.appendChild(updateRequestForm);
+
+	    updateRequestForm.submit();
+		
+	}
+
+	function searchByUserId() {
+	    var searchByUserIdForm = document.createElement("form");
 	    var element1 = document.createElement("input"); 
 	    var element2 = document.createElement("input");  
 
-	    form.method = "POST";
-	    form.action = "RequestController";   
+	    searchByUserIdForm.method = "POST";
+	    searchByUserIdForm.action = "RequestController";   
 
-	    element1.value=requestId;
-	    element1.name="reimbursementId";
-	    form.appendChild(element1);  
+	    element1.value="searchRequest";
+	    element1.name="requestType";
+	    searchByUserIdForm.appendChild(element1);  
 
-	    element2.value=status;
-	    element2.name="status";
-	    form.appendChild(element2);
+	    if (document.getElementById("searchUserId").value > 0) {
+	    	element2.value=document.getElementById("searchUserId").value;
+	    } else {
+		    element2.value=0;
+	    }
+	    element2.name="userId";
+	    searchByUserIdForm.appendChild(element2);  
 
-	    document.body.appendChild(form);
+	    document.body.appendChild(searchByUserIdForm);
 
-	    form.submit();
+	    searchByUserIdForm.submit();
 		
 	}
 	
+	function navSelection() {
+		if (1 == 3) {
+			showRequestsByEmployee()
+		} else {
+			showPendingRequests()
+		}
+	}
 	function navReset() {
 		document.getElementById("pendingRequests").style.display = 'none';
 		document.getElementById("resolvedRequests").style.display = 'none';
@@ -59,7 +97,7 @@
 		document.getElementById("employeeInfo").style.display = 'none';
 		document.getElementById("navBtn1").classList.remove('active');
 		document.getElementById("navBtn2").classList.remove('active');
-		document.getElementById("navBtn3").classList.remove('active');;
+		document.getElementById("navBtn3").classList.remove('active');
 		document.getElementById("navBtn4").classList.remove('active');
 	}
 	function showPendingRequests() {
@@ -75,18 +113,18 @@
 	function showRequestsByEmployee() {
 		navReset();
 		document.getElementById("requestsByEmployee").style.display = 'block';
-		document.getElementById("navBtn3").classList.add('actve');
+		document.getElementById("navBtn3").classList.add('active');
 	}
 	function showEmployeeInfo() {
 		navReset();
 		document.getElementById("employeeInfo").style.display = 'block';
-		document.getElementById("navBtn4").classList.add('actve');
+		document.getElementById("navBtn4").classList.add('active');
 	}
 </script>
 <style type="text/css">
 </style>
 </head>
-<body>
+<body onload="navSelection()">
 	<center>
 		<table cellspacing="10" cellpadding="1" border="0">
 			<td width="1000px" align="center">
@@ -98,6 +136,10 @@
 				Iterator<Reimbursement> iteratorPending = pendingRequests.iterator();
 				List<Reimbursement> resolvedRequests = requestsDAO.viewResolvedRequests((int) session.getAttribute("userId"));
 				Iterator<Reimbursement> iteratorResolved = resolvedRequests.iterator();
+				
+				List<Reimbursement> allRequests = requestsDAO.viewAllUserRequests(((session.getAttribute("searchUserId")==null)?0:(int)session.getAttribute("searchUserId")));
+				Iterator<Reimbursement> iteratorAll = allRequests.iterator();
+				System.out.println(session.getAttribute("searchUserId")+" "+allRequests);
 
 				List<User> employees = loginDAO.getEmployees((int) session.getAttribute("userId"));
 				Iterator<User> iteratorEmployees = employees.iterator();
@@ -111,7 +153,7 @@
 				</div>
 
 
-				<div id="pendingRequests" style="display:block;">
+				<div id="pendingRequests" style="display:none;">
 
 					<br />
 
@@ -183,6 +225,52 @@
 
 				</div>
 				<div id="requestsByEmployee" style="display:none;">
+				
+				
+					<br />
+					<table width="250px"><tr><td>
+					
+														<div class="input-group mb-3">
+										<div class="input-group-prepend">
+											<span class="input-group-text">User Id</span>
+										</div>
+										<input type="text" class="form-control" name="searchUserId"
+											id="searchUserId" placeholder="0">
+										<div class="input-group-append">
+											<input type="button" onclick="searchByUserId()" class="btn btn-primary"
+											value="Search">
+										</div>
+									</div>
+									</td></tr></table>
+					<br />
+
+					<table class="table table-striped table-dark">
+						<tr>
+							<th>Request Id</th>
+							<th>User Id</th>
+							<th>Reason</th>
+							<th>Amount</th>
+							<th>Note</th>
+							<th>Status</th>
+							<th>Timestamp</th>
+						</tr>
+						<%
+						while (iteratorAll.hasNext()) {
+							Reimbursement allRequest = iteratorAll.next();
+						%>
+						<tr>
+							<td><%=allRequest.getReimbursementId()%></td>
+							<td><%=allRequest.getRequesterId() %></td>
+							<td><%=allRequest.getReason()%></td>
+							<td><%=allRequest.getFormattedAmount()%></td>
+							<td><%=(allRequest.getNote() == null) ? "NA" : allRequest.getNote()%></td>
+							<td><%=allRequest.getStatus()%></td>
+							<td><%=allRequest.getDateTime().substring(0, 19)%></td>
+						</tr>
+						<%
+						}
+						%>
+					</table>
 
 				</div>
 				<div id="employeeInfo" style="display:none;">

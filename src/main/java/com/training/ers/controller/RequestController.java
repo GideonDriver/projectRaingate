@@ -2,6 +2,8 @@ package com.training.ers.controller;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.Iterator;
+import java.util.List;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -42,7 +44,7 @@ public class RequestController extends HttpServlet {
 		HttpSession session = request.getSession();
 		boolean result;
 
-		if (request.getParameter("reason") == null) {
+		if (request.getParameter("requestType").equals("updateRequest")) {
 
 			int reimbursementId = Integer.parseInt(request.getParameter("reimbursementId"));
 			String status = request.getParameter("status");
@@ -51,6 +53,11 @@ public class RequestController extends HttpServlet {
 			RequestsDAO requestsDAO = new RequestsDAOImpl();
 			result = requestsDAO.updateStatus(reimbursementId, status, userId);
 
+		} else if (request.getParameter("requestType").equals("searchRequest")) {
+
+			session.setAttribute("searchUserId", Integer.parseInt(request.getParameter("userId")));
+			session.setAttribute("navSelection", 3);
+			
 		} else {
 
 			String reason = request.getParameter("reason");
@@ -65,7 +72,6 @@ public class RequestController extends HttpServlet {
 
 		RequestDispatcher dispatcher = request.getRequestDispatcher("back.jsp");
 		dispatcher.include(request, response);
-
 	}
 
 	/**

@@ -130,7 +130,7 @@
 										</div>
 										<select class="custom-select input-group-text btn-light"
 											name="reason" id="reason">
-											<option selected value="0">Choose...</option>
+											<option selected value="0">Select...</option>
 											<option>Gas</option>
 											<option>Food</option>
 											<option>Lodging</option>
@@ -149,7 +149,7 @@
 											<span class="input-group-text">$</span>
 										</div>
 										<input type="text" class="form-control" name="amount"
-											id="amount">
+											id="amount" placeholder="0.00">
 									</div>
 
 								</td>
@@ -159,7 +159,7 @@
 										<div class="input-group-prepend">
 											<span class="input-group-text">Note</span>
 										</div>
-										<input type="text" class="form-control" name="note" id="note">
+										<input type="text" class="form-control" name="note" id="note" placeholder="additional info...">
 									</div>
 
 								</td>
