@@ -1,0 +1,58 @@
+A:link {
+	color: pink;
+	text-decoration: underline;
+}
+A:visited {
+	color: pink;
+	text-decoration: underline;
+}
+A:hover {
+	color: pink;
+	text-decoration: underline;
+}
+body {
+background-image: url("grayRibbonTile.jpg");
+background-color: darkgray;
+color: silver;
+font-family: cursive; 
+}
+
+/*sets id data*/
+.left {
+	text-align: left;
+color: green}
+
+/*sets class data*/
+.product {
+	background-color: lime;
+	border-style: solid;
+	border-color: blue;
+	border-bottom-width: thick;
+	padding: 10px;
+	border: medium solid;
+}
+.textBox {
+	background-color: orange;
+	border-style: solid;
+	padding: 10px;
+	border: medium solid;
+	width: 80%;
+}
+
+
+/*
+h1,h2,h3 {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: red;
+	text-align: center;
+	font-family: fantasy;
+}
+label {
+	font-style: italic;
+	font-family: "Times New Roman", Times, serif;
+}
+body {
+background-color: maroon;
+}*/
+

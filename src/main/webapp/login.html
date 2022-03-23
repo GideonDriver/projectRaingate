@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@media only screen and (min-width: 100px) {
+
+   .username:before
+   {
+	content:"";
+   }
+   .password:before
+   {
+	content:"";
+   }
+   
+}
+@media only screen and (min-width: 600px) {
+
+   .username:before
+   {
+	content:"Username:";
+   }
+   .password:before
+   {
+	content:"Password:";
+   }
+}
+</style>
+<meta charset="ISO-8859-1">
+<title>Login</title>
+<link type="text/css" rel="stylesheet" href="styles.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script type="text/javascript">
+function loginValidate(){
+	var email = document.getElementById("email").value;
+	var password = document.getElementById("password").value;
+	//var errEmail = document.getElementById("errEmail");
+	//var errPassword = document.getElementById("errPassword");
+	errEmail.innerHTML = "";
+	errPassword.innerHTML = "";
+
+	var error = 0;
+	
+	if (email.length == 0) {
+		errEmail.innerHTML = "<font class=\"alert alert-danger\">*Missing email</font>";
+		error = 1;
+	}
+	if (password.length == 0) {
+		errPassword.innerHTML = "<font class=\"alert alert-danger\">*Missing password</font>";
+		error = 1;
+	}
+	
+	if (error > 0) {
+		return false;
+	} else {
+		return true;
+	}
+}
+
+</script>
+</head>
+<a name="Top"></a>
+<body>
+	<center>
+		<img alt="Raingate Logo" src="Raingate-logos\Raingate-logos_white.png" height=200px onclick="location.href = 'index.jsp';">
+		<hr class="opacity-100" style="height:2px;width:300px;background-color:white">
+		<h1>
+			<font face="comic sans ms" class="text-light">Login</font>
+		</h1>
+		<hr class="opacity-100" style="height:2px;width:300px;background-color:white">
+
+
+
+		<table cellspacing="10" cellpadding="1" border="0" width="900px">
+		<tr>
+		<td width="250px">
+		</td>
+		<td>
+		
+		<form action="LoginController" name="signupform" onsubmit= "return loginValidate()" method="post">
+
+			<div class="input-group">
+  				<div class="input-group-prepend">
+    				<span class="input-group-text" id="basic-addon1">Email:</span>
+  				</div>
+  				<input type="email" class="form-control" id="email" name="email" placeholder="email">
+			</div>
+
+			<div class="input-group">
+  				<div class="input-group-prepend">
+    				<span class="input-group-text" id="basic-addon1">Password:</span>
+  				</div>
+  				<input type="password" class="form-control" id="password" name="password" placeholder="password">
+			</div>
+
+			<br/>
+			<center><input type="submit" class="btn btn-primary" value="Sign In"></center>
+		</form>
+
+		</td>
+		<td width="250px">
+				<div><span id="errEmail"></span></div>
+<br/>
+				<div><span id="errPassword"></span></div>
+<br/><br/>
+		</td>
+		</tr>
+		</table>
+
+	</center>
+</body>
+</html>

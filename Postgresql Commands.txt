@@ -1,0 +1,98 @@
+-----------------USER TABLE-----------------
+
+drop table if EXISTS users;
+
+create table users (
+userId serial primary key,
+firstName varchar(20) not null,
+lastName varchar(20) not null,
+email varchar(40) not null,
+password varchar(20) not null,
+accountType varchar(10),
+active boolean default true
+);
+
+select * from users;
+
+
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Merle', 'Oldacres', 'moldacres0@europa.eu', 'qwerty321', 'employee', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Heidi', 'Beamson', 'hbeamson1@sourceforge.net', 'thispass', 'employee', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Errol', 'Dandison', 'edandison2@phpbb.com', 'password123', 'employee', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Torry', 'Bariball', 'tbariball3@squidoo.com', 'password123', 'manager', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Woodman', 'Ritmeyer', 'writmeyer4@indiegogo.com', 'password123', 'employee', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Jemmy', 'Redmond', 'jredmond5@dagondesign.com', 'qwerty321', 'manager', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Dinnie', 'Hefner', 'dhefner6@geocities.com', 'thatpass', 'manager', false);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Leupold', 'Eddowis', 'leddowis7@symantec.com', 'thatpass', 'employee', false);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Gustaf', 'Beumant', 'gbeumant8@jalbum.net', 'qwerty321', 'manager', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Sydney', 'Colls', 'scolls9@nymag.com', 'thispass', 'manager', true);
+
+
+-----------------REQUESTS TABLE-----------------
+
+drop table if EXISTS reimbursements;
+
+create table reimbursements (
+reimbursementId serial primary key,
+requesterId Integer not null,
+reason varchar(20) not null,
+amount DECIMAL(19,4) not null,
+note varchar(40),
+status varchar(10) default 'pending',
+dateTime timestamp without time zone NOT NULL DEFAULT (current_timestamp AT TIME ZONE 'EST'),
+constraint reimbursementToUsers foreign key (requesterId) references users(userId) on delete cascade
+);
+
+select * from reimbursements;
+
+
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Gas', 248.8, 'Longer generic note with extra text', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Gas', 114.9, 'Longer generic note with extra text', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Lodging', 133.92, 'Longer generic note with extra text', 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Food', 487.6, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Food', 904.82, 'Longer generic note with extra text', 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Lodging', 480.84, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Other', 910.14, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Education', 354.76, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Supplies', 490.51, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Gas', 405.59, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 5, 'Other', 469.32, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Education', 144.57, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Lodging', 434.61, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Lodging', 488.25, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Food', 672.84, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Food', 128.58, 'Longer generic note with extra text', 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Food', 436.68, 'Generic note', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Food', 32.84, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Gas', 897.04, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Lodging', 273.14, 'Generic note', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Education', 29.32, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Food', 422.76, 'Generic note', 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Gas', 660.9, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Gas', 971.98, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Food', 932.67, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Transportation', 603.01, 'Generic note', 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Supplies', 252.67, 'Longer generic note with extra text', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Education', 600.54, 'Longer generic note with extra text', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Education', 910.45, 'Generic note', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Other', 711.59, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Transportation', 885.62, 'Longer generic note with extra text', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Gas', 44.26, 'Longer generic note with extra text', 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Transportation', 577.0, 'Longer generic note with extra text', 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Supplies', 103.15, null, 'approved', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Gas', 333.61, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 1, 'Education', 628.0, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Education', 376.22, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 4, 'Other', 935.05, null, 'denied', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 3, 'Other', 36.65, null, 'pending', default);
+insert into reimbursements (reimbursementId, requesterId, reason, amount, note, status, dateTime) values (default, 2, 'Education', 637.33, 'Generic note', 'denied', default);
+
+
+-------------------------------
+
+
+
+
+
+
+
+

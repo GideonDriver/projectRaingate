@@ -1,0 +1,37 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<display-name>Archetype Created Web Application</display-name>
+	<servlet>
+		<servlet-name>LoginController</servlet-name>
+		<display-name>LoginController</display-name>
+		<description></description>
+		<servlet-class>com.training.ers.controller.LoginController</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>SignupController</servlet-name>
+		<display-name>SignupController</display-name>
+		<description></description>
+		<servlet-class>com.training.ers.controller.SignupController</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>RequestController</servlet-name>
+		<display-name>RequestController</display-name>
+		<description></description>
+		<servlet-class>com.training.ers.controller.RequestController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>LoginController</servlet-name>
+		<url-pattern>/LoginController</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>SignupController</servlet-name>
+		<url-pattern>/SignupController</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>RequestController</servlet-name>
+		<url-pattern>/RequestController</url-pattern>
+	</servlet-mapping>
+</web-app>

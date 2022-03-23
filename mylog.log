@@ -1,0 +1,1796 @@
+14:07:27,214  INFO LoginDAOImpl:71 - Admin signed in
+14:07:31,602  INFO LoginDAOImpl:109 - User pulled user table
+14:08:50,553  INFO LoginDAOImpl:43 - Synthia signed up
+14:09:00,084  INFO LoginDAOImpl:71 - Synthia signed in
+14:09:06,550  INFO LoginDAOImpl:142 - User searched user table with 's'
+14:09:15,711  INFO LoginDAOImpl:75 - test attempted to sign in, invalid credidentials
+14:09:47,559  INFO LoginDAOImpl:75 - Synthia attempted to sign in, invalid credidentials
+12:54:21,895  INFO LoginDAOImpl:142 - User completed search with keyword: 'null'
+12:54:31,446  INFO LoginDAOImpl:71 - Admin signed in
+12:54:38,723  INFO LoginDAOImpl:109 - User pulled user table
+12:55:14,483  INFO LoginDAOImpl:109 - User pulled user table
+12:56:15,439  INFO LoginDAOImpl:109 - User pulled user table
+12:56:15,816  INFO LoginDAOImpl:109 - User pulled user table
+12:56:16,051  INFO LoginDAOImpl:109 - User pulled user table
+12:56:16,256  INFO LoginDAOImpl:109 - User pulled user table
+12:56:16,474  INFO LoginDAOImpl:109 - User pulled user table
+12:56:16,674  INFO LoginDAOImpl:109 - User pulled user table
+12:56:16,869  INFO LoginDAOImpl:109 - User pulled user table
+12:56:17,038  INFO LoginDAOImpl:109 - User pulled user table
+12:56:17,442  INFO LoginDAOImpl:109 - User pulled user table
+12:56:17,637  INFO LoginDAOImpl:109 - User pulled user table
+12:56:17,816  INFO LoginDAOImpl:109 - User pulled user table
+12:56:17,964  INFO LoginDAOImpl:109 - User pulled user table
+12:56:18,180  INFO LoginDAOImpl:109 - User pulled user table
+12:56:18,388  INFO LoginDAOImpl:109 - User pulled user table
+12:56:18,569  INFO LoginDAOImpl:109 - User pulled user table
+12:56:18,770  INFO LoginDAOImpl:109 - User pulled user table
+12:56:18,982  INFO LoginDAOImpl:109 - User pulled user table
+12:56:19,190  INFO LoginDAOImpl:109 - User pulled user table
+12:56:19,430  INFO LoginDAOImpl:109 - User pulled user table
+12:56:19,634  INFO LoginDAOImpl:109 - User pulled user table
+12:56:19,870  INFO LoginDAOImpl:109 - User pulled user table
+12:56:20,423  INFO LoginDAOImpl:109 - User pulled user table
+12:56:20,781  INFO LoginDAOImpl:109 - User pulled user table
+12:56:21,196  INFO LoginDAOImpl:109 - User pulled user table
+12:56:21,790  INFO LoginDAOImpl:109 - User pulled user table
+12:56:22,246  INFO LoginDAOImpl:109 - User pulled user table
+12:56:23,172  INFO LoginDAOImpl:109 - User pulled user table
+12:56:23,885  INFO LoginDAOImpl:109 - User pulled user table
+12:57:12,225  INFO LoginDAOImpl:109 - User pulled user table
+12:57:20,173  INFO LoginDAOImpl:109 - User pulled user table
+12:57:20,609  INFO LoginDAOImpl:109 - User pulled user table
+12:57:20,842  INFO LoginDAOImpl:109 - User pulled user table
+12:57:22,261  INFO LoginDAOImpl:109 - User pulled user table
+12:57:22,444  INFO LoginDAOImpl:109 - User pulled user table
+12:57:23,266  INFO LoginDAOImpl:109 - User pulled user table
+12:57:23,494  INFO LoginDAOImpl:109 - User pulled user table
+12:57:24,216  INFO LoginDAOImpl:109 - User pulled user table
+12:57:24,435  INFO LoginDAOImpl:109 - User pulled user table
+12:57:25,041  INFO LoginDAOImpl:109 - User pulled user table
+12:57:25,261  INFO LoginDAOImpl:109 - User pulled user table
+12:57:26,163  INFO LoginDAOImpl:109 - User pulled user table
+12:57:26,381  INFO LoginDAOImpl:109 - User pulled user table
+12:57:26,777  INFO LoginDAOImpl:109 - User pulled user table
+12:57:26,987  INFO LoginDAOImpl:109 - User pulled user table
+12:57:27,507  INFO LoginDAOImpl:109 - User pulled user table
+12:57:27,729  INFO LoginDAOImpl:109 - User pulled user table
+12:57:28,497  INFO LoginDAOImpl:109 - User pulled user table
+12:57:28,596  INFO LoginDAOImpl:109 - User pulled user table
+12:58:36,568  INFO LoginDAOImpl:142 - User completed search with keyword: 'm'
+12:58:49,227  INFO LoginDAOImpl:142 - User completed search with keyword: 'm'
+12:59:08,099  INFO LoginDAOImpl:71 - Mitch signed in
+12:59:11,345  INFO LoginDAOImpl:142 - User completed search with keyword: 'a'
+12:59:23,117  INFO LoginDAOImpl:71 - Admin signed in
+12:59:27,279  INFO LoginDAOImpl:109 - User pulled user table
+12:59:35,473  INFO LoginDAOImpl:142 - User completed search with keyword: 'i'
+13:01:40,469  INFO LoginDAOImpl:142 - User completed search with keyword: 'i'
+13:01:40,997  INFO LoginDAOImpl:142 - User completed search with keyword: 'i'
+13:01:41,102  INFO LoginDAOImpl:142 - User completed search with keyword: 'i'
+13:01:41,315  INFO LoginDAOImpl:142 - User completed search with keyword: 'i'
+13:01:42,617  INFO LoginDAOImpl:142 - User completed search with keyword: 'i'
+13:01:49,622  INFO LoginDAOImpl:71 - Admin signed in
+13:04:08,271  INFO LoginDAOImpl:109 - User pulled user table
+13:04:27,910  INFO LoginDAOImpl:109 - User pulled user table
+13:04:39,730  INFO LoginDAOImpl:109 - User pulled user table
+13:06:18,494  INFO LoginDAOImpl:43 - Zack signed up
+13:06:32,205  INFO LoginDAOImpl:71 - Zack signed in
+13:06:34,974  INFO LoginDAOImpl:109 - User pulled user table
+15:09:20,822  INFO LoginDAOImpl:109 - User pulled user table
+15:09:40,076  INFO LoginDAOImpl:71 - Zack signed in
+15:09:44,950  INFO LoginDAOImpl:142 - User completed search with keyword: 'z'
+22:05:06,364  WARN LoginDAOImpl:41 - null null failed to sign up
+22:06:35,665  WARN LoginDAOImpl:41 - null null failed to sign up
+22:06:39,990  WARN LoginDAOImpl:41 - null null failed to sign up
+22:07:03,145  WARN LoginDAOImpl:41 - null null failed to sign up
+22:07:41,454  WARN LoginDAOImpl:41 - null null failed to sign up
+22:07:56,983  WARN LoginDAOImpl:41 - null null failed to sign up
+23:12:09,203  WARN LoginDAOImpl:41 - null null failed to sign up
+23:12:56,679  WARN LoginDAOImpl:41 - null null failed to sign up
+23:12:59,790  WARN LoginDAOImpl:41 - null null failed to sign up
+23:21:31,788  WARN LoginDAOImpl:41 - null null failed to sign up
+23:21:37,278  WARN LoginDAOImpl:41 - null null failed to sign up
+23:22:30,956  WARN LoginDAOImpl:41 - null null failed to sign up
+23:22:50,764  WARN LoginDAOImpl:41 - null null failed to sign up
+23:24:31,083  WARN LoginDAOImpl:41 - null null failed to sign up
+23:25:09,613  WARN LoginDAOImpl:41 - null null failed to sign up
+23:25:20,292  WARN LoginDAOImpl:41 - null null failed to sign up
+23:25:27,556  WARN LoginDAOImpl:41 - null null failed to sign up
+23:26:36,804  WARN LoginDAOImpl:41 - null null failed to sign up
+23:26:47,708  WARN LoginDAOImpl:41 - null null failed to sign up
+23:27:09,263  WARN LoginDAOImpl:41 - null null failed to sign up
+23:28:19,040  WARN LoginDAOImpl:41 - null null failed to sign up
+23:28:19,422  WARN LoginDAOImpl:41 - null null failed to sign up
+23:28:19,979  WARN LoginDAOImpl:41 - null null failed to sign up
+23:28:24,766  WARN LoginDAOImpl:41 - null null failed to sign up
+23:29:39,525  WARN LoginDAOImpl:41 - null null failed to sign up
+23:31:33,715  WARN LoginDAOImpl:41 - null null failed to sign up
+23:31:52,436  WARN LoginDAOImpl:41 - null null failed to sign up
+23:32:17,159  WARN LoginDAOImpl:41 - null null failed to sign up
+23:33:42,159  WARN LoginDAOImpl:41 - null null failed to sign up
+23:35:23,943  WARN LoginDAOImpl:41 - null null failed to sign up
+23:38:21,516  WARN LoginDAOImpl:41 - null null failed to sign up
+00:03:58,533  WARN LoginDAOImpl:41 - null null failed to sign up
+00:06:08,522  WARN LoginDAOImpl:41 - null null failed to sign up
+00:07:55,590  WARN LoginDAOImpl:41 - null null failed to sign up
+00:08:39,270  WARN LoginDAOImpl:41 - null null failed to sign up
+00:09:04,313  WARN LoginDAOImpl:41 - null null failed to sign up
+00:09:16,359  WARN LoginDAOImpl:41 - null null failed to sign up
+00:12:51,367  WARN LoginDAOImpl:41 - null null failed to sign up
+00:13:17,332  WARN LoginDAOImpl:41 - null null failed to sign up
+00:14:46,925  WARN LoginDAOImpl:41 - null null failed to sign up
+00:23:48,608  WARN LoginDAOImpl:41 - null null failed to sign up
+00:27:58,061  WARN LoginDAOImpl:41 - null null failed to sign up
+00:31:52,978  WARN LoginDAOImpl:41 - null null failed to sign up
+00:32:02,784  WARN LoginDAOImpl:41 - null null failed to sign up
+00:36:05,349  WARN LoginDAOImpl:41 - null null failed to sign up
+00:39:47,773  WARN LoginDAOImpl:41 - null null failed to sign up
+00:41:39,844  INFO LoginDAOImpl:73 - Brena Follit signed in
+00:42:27,468  INFO LoginDAOImpl:73 - Brena Follit signed in
+00:43:01,448  INFO LoginDAOImpl:73 - Brena Follit signed in
+00:43:15,692  INFO LoginDAOImpl:73 - Brena Follit signed in
+00:43:19,299  INFO LoginDAOImpl:73 - Brena Follit signed in
+00:43:35,180  INFO LoginDAOImpl:73 - Daria Swyre signed in
+00:45:49,922  WARN LoginDAOImpl:41 - null null failed to sign up
+00:50:19,025  INFO LoginDAOImpl:44 - Joe Smith signed up
+01:00:40,108  INFO LoginDAOImpl:77 - null attempted to sign in, invalid credidentials
+01:05:20,196  INFO LoginDAOImpl:77 - null attempted to sign in, invalid credidentials
+01:06:33,783  INFO LoginDAOImpl:77 - null attempted to sign in, invalid credidentials
+01:07:08,576  INFO LoginDAOImpl:73 - Mozelle Duiguid signed in
+01:11:11,430  INFO LoginDAOImpl:44 - John Smith signed up
+01:17:12,571  INFO LoginDAOImpl:44 - John Smith signed up
+01:17:17,667  INFO LoginDAOImpl:44 - John Smith signed up
+01:17:30,545  INFO LoginDAOImpl:73 - John Smith signed in
+01:20:13,036  INFO LoginDAOImpl:73 - John Smith signed in
+01:22:09,655  INFO LoginDAOImpl:73 - John Smith signed in
+01:23:16,363  INFO LoginDAOImpl:73 - John Smith signed in
+01:23:18,787  INFO LoginDAOImpl:73 - John Smith signed in
+01:23:21,258  INFO LoginDAOImpl:73 - John Smith signed in
+01:23:31,009  INFO LoginDAOImpl:73 - John Smith signed in
+01:32:32,069  INFO LoginDAOImpl:76 - a@me.com attempted to sign in, invalid credidentials
+01:33:00,658  INFO LoginDAOImpl:76 - a@me.com attempted to sign in, invalid credidentials
+01:33:02,721  INFO LoginDAOImpl:76 - a@me.com attempted to sign in, invalid credidentials
+01:33:04,817  INFO LoginDAOImpl:76 - a@me.com attempted to sign in, invalid credidentials
+01:33:06,514  INFO LoginDAOImpl:76 - a@me.com attempted to sign in, invalid credidentials
+01:33:10,411  INFO LoginDAOImpl:76 - a@me.com attempted to sign in, invalid credidentials
+01:41:33,633  INFO LoginDAOImpl:73 - John Smith signed in
+01:42:28,977  INFO LoginDAOImpl:73 - John Smith signed in
+01:43:09,259  INFO LoginDAOImpl:73 - John Smith signed in
+01:43:10,281  INFO LoginDAOImpl:111 - User pulled user table
+01:55:13,652  INFO LoginDAOImpl:76 - john@gmail.com attempted to sign in, invalid credidentials
+02:00:51,951  INFO LoginDAOImpl:76 - john@gmail.com attempted to sign in, invalid credidentials
+02:00:58,605  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:01:20,561  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:02:39,729  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:02:58,281  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:03:07,186  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:03:19,130  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:03:56,057  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:04:21,865  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:04:56,218  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:05:15,521  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:08:12,938  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:08:22,688  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:08:36,641  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:08:59,873  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:10:47,597  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:15:17,902  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:15:55,560  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:16:01,828  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:16:05,313  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:16:30,852  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:16:46,648  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:17:01,996  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:17:27,265  INFO LoginDAOImpl:73 - John Smith signed in
+02:20:43,926  INFO LoginDAOImpl:73 - Glenn Levermore signed in
+02:21:05,648  INFO LoginDAOImpl:73 - Glenn Levermore signed in
+02:21:13,456  INFO LoginDAOImpl:73 - Glenn Levermore signed in
+02:22:21,248  INFO LoginDAOImpl:73 - Glenn Levermore signed in
+02:23:24,017  INFO LoginDAOImpl:73 - Glenn Levermore signed in
+02:23:24,627  INFO LoginDAOImpl:111 - User pulled user table
+02:23:34,433  INFO LoginDAOImpl:111 - User pulled user table
+10:15:23,685  INFO LoginDAOImpl:73 - Joe Smith signed in
+10:17:11,450  INFO LoginDAOImpl:73 - Joe Smith signed in
+10:17:48,709  INFO LoginDAOImpl:73 - Joe Smith signed in
+10:19:00,479  INFO LoginDAOImpl:73 - Joe Smith signed in
+10:20:34,997  INFO LoginDAOImpl:73 - Joe Smith signed in
+10:28:46,338  INFO LoginDAOImpl:73 - John Smith signed in
+10:32:18,964  INFO LoginDAOImpl:73 - John Smith signed in
+10:32:21,013  INFO LoginDAOImpl:111 - User pulled user table
+10:59:45,269  INFO LoginDAOImpl:111 - User pulled user table
+11:00:18,745  INFO LoginDAOImpl:73 - John Smith signed in
+11:00:19,995  INFO LoginDAOImpl:111 - User pulled user table
+11:03:53,708  INFO LoginDAOImpl:111 - User pulled user table
+11:04:44,347  INFO LoginDAOImpl:73 - John Smith signed in
+11:04:45,977  INFO LoginDAOImpl:111 - User pulled user table
+14:01:13,802  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:02:06,339  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:02:09,497  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:02:13,761  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:02:21,920  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:03:59,809  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:04:02,895  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:04:05,478  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:04:08,089  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:04:21,519  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:09:28,035  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:09:30,297  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:09:34,393  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:09:40,923  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:09:43,769  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:10:00,545  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:10:53,906  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:11:19,671  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:11:42,129  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:11:46,270  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:11:54,529  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:13:19,162  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:13:50,720  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:13:54,367  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:13:56,855  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:14:02,619  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:14:25,081  INFO LoginDAOImpl:73 - Joe Smith signed in
+14:14:47,851  INFO LoginDAOImpl:73 - John Smith signed in
+15:12:26,359  INFO LoginDAOImpl:73 - Joe Smith signed in
+15:14:02,702  INFO LoginDAOImpl:73 - John Smith signed in
+15:15:33,061  INFO LoginDAOImpl:111 - User pulled user table
+15:15:56,466  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:34:38,574  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:35:42,422  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:35:45,165  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:35:52,230  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:37:11,559  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:37:44,107  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+15:37:52,681  INFO LoginDAOImpl:76 - lmacmickan0@telegraph.co.uk attempted to sign in, invalid credidentials
+15:38:47,762  INFO LoginDAOImpl:76 - lmacmickan0@telegraph.co.uk attempted to sign in, invalid credidentials
+15:42:52,703  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+15:43:18,086  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+15:43:20,117  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+15:43:22,052  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+15:43:29,177  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+15:43:49,846  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+16:03:39,222  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:05:10,845  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:06:11,145  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:06:58,346  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:07:16,392  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+16:09:05,381  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:10:30,714  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:10:39,878  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:12:13,040  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:14:05,234  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:14:37,088  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:14:50,911  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+16:15:32,481  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:16:48,930  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:17:15,436  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+16:17:25,025  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+16:21:38,067  INFO LoginDAOImpl:73 - Joe Smith signed in
+16:21:48,595  INFO LoginDAOImpl:73 - John Smith signed in
+16:29:56,577  INFO LoginDAOImpl:44 - Bobby Trouble signed up
+16:30:08,139  INFO LoginDAOImpl:73 - Bobby Trouble signed in
+16:31:16,611  INFO LoginDAOImpl:73 - Joe Smith signed in
+16:31:47,432  INFO LoginDAOImpl:73 - Bobby Trouble signed in
+16:32:31,925  INFO LoginDAOImpl:73 - John Smith signed in
+16:32:33,960  INFO LoginDAOImpl:111 - User pulled user table
+16:59:21,767  INFO LoginDAOImpl:73 - Joe Smith signed in
+17:22:26,775  INFO LoginDAOImpl:73 - John Smith signed in
+17:26:09,147  INFO LoginDAOImpl:111 - User pulled user table
+17:50:26,811  INFO LoginDAOImpl:111 - User pulled user table
+17:50:40,780  INFO LoginDAOImpl:111 - User pulled user table
+22:00:29,983  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:07:55,110  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:07:55,281  INFO LoginDAOImpl:111 - User pulled user table
+22:08:22,781  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:08:22,938  INFO LoginDAOImpl:111 - User pulled user table
+22:08:30,037  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:08:30,171  INFO LoginDAOImpl:111 - User pulled user table
+22:08:59,513  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:08:59,574  INFO LoginDAOImpl:111 - User pulled user table
+22:09:14,392  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:09:14,955  INFO LoginDAOImpl:111 - User pulled user table
+22:11:01,583  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:11:01,608  INFO LoginDAOImpl:111 - User pulled user table
+22:31:19,469  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:32:13,909  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:32:14,081  INFO LoginDAOImpl:82 - Userid -1 pulled pending requests
+22:44:27,097  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:45:15,141  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:45:46,877  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:45:47,067  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:46:56,365  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:46:56,403  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:47:45,017  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:47:45,616  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:49:22,292  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:49:22,460  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:49:29,419  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:49:29,445  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:49:36,547  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:49:36,574  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:49:48,715  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:49:48,784  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:51:11,133  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+22:51:17,310  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:51:17,882  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:52:07,028  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:52:07,198  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:52:17,922  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:52:17,997  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:53:20,255  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:53:20,282  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:54:09,556  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:54:09,592  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:55:48,549  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:55:49,079  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:55:57,195  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:55:57,364  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:57:33,426  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:57:33,584  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:57:42,067  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:57:42,221  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:58:26,762  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:58:26,912  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:58:48,675  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:58:48,814  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:59:09,643  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:59:09,799  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:59:15,699  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:59:15,851  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:59:23,401  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:59:23,551  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+22:59:41,630  INFO LoginDAOImpl:73 - Joe Smith signed in
+22:59:42,244  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:01:13,355  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:01:13,627  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:01:38,236  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:01:38,398  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:01:45,747  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:01:45,905  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:01:57,444  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:01:57,601  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:02:59,002  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:02:59,153  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:03:25,498  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:03:25,648  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:04:21,054  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:04:21,204  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:05:07,795  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:05:07,821  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:06:47,426  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:06:47,588  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:06:52,873  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:06:52,900  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:07:03,297  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:07:03,451  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:07:29,793  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:07:29,940  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:07:56,267  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:07:56,397  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:08:10,642  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:08:10,669  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:08:29,113  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:08:29,247  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:08:38,665  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:08:38,810  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:09:19,018  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:09:19,161  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:09:26,402  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:09:26,544  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:09:41,514  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:09:41,655  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:10:14,002  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:10:14,139  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:10:27,529  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:10:27,670  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:10:44,451  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:10:44,592  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:11:23,003  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:11:23,139  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:12:15,585  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:12:15,723  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:13:39,163  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:13:39,289  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:14:04,545  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:14:04,682  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:14:33,554  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:14:33,691  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:15:53,474  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:15:53,611  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:16:41,842  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:16:41,977  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:16:53,081  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:16:53,222  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:17:07,345  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:17:07,483  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:17:20,282  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:17:20,406  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:17:49,457  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:17:49,596  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:18:10,241  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:18:10,375  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:20:02,514  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:20:02,653  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:22:00,401  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:22:00,537  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:22:25,296  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:22:25,550  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:23:07,051  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:23:07,188  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:23:15,481  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:23:15,616  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:23:36,577  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:23:36,702  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:23:44,169  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:23:44,307  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:24:07,555  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:24:07,692  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:24:27,216  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:24:27,354  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:24:37,453  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:24:37,592  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:25:02,705  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:25:02,840  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:25:50,401  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:25:50,534  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:25:58,706  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:25:58,818  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:26:06,407  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:26:06,542  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:26:15,081  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:26:15,212  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:26:22,945  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:26:23,077  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:32:51,497  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:32:51,523  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:33:08,439  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:33:08,571  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:33:18,633  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:33:18,703  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:33:59,148  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:33:59,175  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:36:52,514  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:36:53,106  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:37:34,034  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:37:34,206  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:38:00,794  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:38:00,958  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:38:18,753  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:38:18,913  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:39:37,353  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:39:37,504  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:41:13,979  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:41:14,135  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:41:32,672  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:41:32,822  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:41:51,216  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:41:51,366  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:42:01,719  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:42:01,863  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:42:26,845  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:42:26,993  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:43:04,392  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:43:04,536  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:43:12,604  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:43:12,723  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:44:43,578  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:44:43,819  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:45:41,833  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:45:41,973  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:46:07,696  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:46:07,832  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:48:32,481  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:48:32,507  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:50:38,072  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:50:38,220  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:57:10,321  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:57:10,464  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+23:57:15,799  INFO LoginDAOImpl:73 - Joe Smith signed in
+23:57:15,940  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:09:44,762  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:09:44,788  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:09:45,512  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:09:45,536  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:09:46,145  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:09:46,170  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:01,553  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:01,579  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:02,016  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:02,040  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:02,543  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:02,569  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:03,208  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:03,234  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:03,521  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:03,546  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:03,817  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:03,842  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:10:04,152  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:10:04,176  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:11:42,114  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:13:25,182  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:14:10,340  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:14:10,542  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:17:52,976  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:05,248  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:21,879  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:22,028  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:23:22,057  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:23:23,703  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:23,729  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:23:23,756  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:23:24,711  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:24,737  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:23:24,763  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:23:34,824  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:34,972  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:23:34,997  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:23:57,783  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:23:57,810  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:23:57,835  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:25:04,776  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:25:04,922  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:26:31,110  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:26:31,260  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:26:54,583  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:26:54,729  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:27:10,015  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:27:10,160  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:27:29,885  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:27:30,026  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:27:41,454  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:27:41,599  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:28:05,558  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:28:05,698  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:29:11,982  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:29:12,121  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:32:41,638  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:32:41,780  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:36:06,536  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:36:06,675  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:39:41,662  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:39:41,802  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:39:41,826  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:40:17,251  INFO LoginDAOImpl:111 - User pulled user table
+00:40:39,454  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:40:39,593  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:40:39,618  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:41:36,816  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:41:36,940  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:41:36,966  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:41:56,373  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:41:56,509  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:41:56,536  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:42:22,598  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:42:22,742  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:42:22,768  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:42:32,309  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:42:32,449  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:42:32,474  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:43:22,071  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:43:22,207  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:43:22,232  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:43:35,549  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:43:35,792  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:43:35,817  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:43:50,190  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:43:50,327  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:43:50,352  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:44:34,878  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:44:35,015  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:44:35,040  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:48:36,318  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:48:36,454  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:48:36,479  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:49:36,889  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:49:37,028  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:49:37,054  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:50:09,918  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:50:10,055  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:50:10,080  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:50:18,653  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:50:18,789  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:50:18,816  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:50:44,478  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:50:44,604  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:50:44,629  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:51:08,245  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:51:08,380  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:51:08,405  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:51:57,997  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:51:58,136  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:51:58,162  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:52:37,254  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:52:37,394  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:52:37,422  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:55:27,070  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:55:27,209  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:55:27,234  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:56:50,989  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:56:51,133  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:56:51,273  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:57:02,871  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:57:02,996  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:57:03,022  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:57:24,253  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:57:24,390  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:57:24,414  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:57:34,324  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:57:34,462  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:57:34,486  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:57:40,204  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:57:40,341  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:57:40,366  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:58:29,997  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:58:30,135  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:58:30,160  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+00:59:09,502  INFO LoginDAOImpl:73 - Joe Smith signed in
+00:59:09,635  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+00:59:09,659  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:00:51,108  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:00:51,245  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:00:51,271  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:02:43,884  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:02:44,023  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:02:44,048  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:04:31,436  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:04:31,573  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:04:31,598  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:14:20,734  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:14:20,872  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:14:21,007  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:18:25,484  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:18:25,618  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:18:25,642  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:19:34,755  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:19:34,893  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:19:34,918  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:20:22,981  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:20:23,114  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:20:23,139  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:22:02,452  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:22:02,591  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:22:02,615  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:22:10,509  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:22:10,647  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:22:10,671  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:22:57,430  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:22:57,567  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:22:57,590  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:23:19,923  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:23:20,058  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:23:20,083  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:23:35,668  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:23:35,801  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:23:35,826  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:24:17,502  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:24:17,626  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:24:17,650  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:25:13,844  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:25:13,965  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:25:13,992  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:25:47,947  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:25:48,080  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:25:48,105  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:26:02,915  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:26:03,047  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:26:03,186  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:27:26,028  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:27:26,055  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:27:26,080  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:27:46,787  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:27:46,921  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:27:46,946  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:28:45,132  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:28:45,268  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:28:45,295  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:29:01,706  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:29:01,844  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:29:01,870  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:31:17,011  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:31:17,145  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:31:17,170  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:32:11,973  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:32:12,111  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:32:12,136  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:33:28,196  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:33:28,328  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:33:28,353  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:33:46,226  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:33:46,360  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:33:46,384  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:34:27,100  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:34:27,232  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:34:27,256  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:35:08,699  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:35:08,831  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:35:08,855  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:35:20,779  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:35:20,914  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:35:20,938  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:35:26,547  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:35:26,682  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:35:26,706  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:37:10,227  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:37:10,360  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:37:10,384  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:37:37,603  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:37:37,725  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:37:37,750  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:38:49,131  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:38:49,263  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:38:49,287  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:39:01,067  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:39:01,201  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:39:01,227  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:40:31,619  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:40:31,750  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:40:31,775  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:40:53,274  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:40:53,405  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:40:53,430  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:41:12,587  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:41:12,719  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:41:12,743  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:44:26,163  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:44:26,297  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:44:26,321  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:44:58,971  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:44:59,103  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:44:59,127  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:45:28,380  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:45:28,513  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:45:28,538  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:46:08,146  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:46:08,278  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:46:08,305  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:46:17,986  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:46:18,121  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:46:18,145  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:47:51,427  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:47:51,559  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:47:51,585  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:49:25,365  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:49:25,500  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:49:25,524  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:50:33,922  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:50:34,056  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:50:34,081  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:50:36,444  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:50:36,570  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:50:36,595  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:50:58,308  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:50:58,431  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:50:58,456  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:51:00,843  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:51:00,868  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:51:00,891  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:51:43,651  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:51:43,784  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:51:43,809  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:52:18,123  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:52:18,257  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:52:18,281  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:52:28,627  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:52:28,759  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:52:28,783  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:54:08,883  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:54:09,014  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:54:09,037  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:56:27,395  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:56:27,529  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:56:27,554  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+01:56:56,282  INFO LoginDAOImpl:73 - Joe Smith signed in
+01:56:56,527  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+01:56:56,550  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:01:03,602  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:01:03,735  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:01:03,759  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:04:47,746  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:04:47,878  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:04:48,008  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:05:36,979  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:05:37,097  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:05:37,122  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:05:57,498  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:05:57,628  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:05:57,652  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:06:22,049  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:06:22,184  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:06:22,208  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:06:37,326  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:06:37,402  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:06:37,434  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:07:19,710  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:07:20,311  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:07:20,336  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:08:00,923  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:08:01,562  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:08:01,589  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:08:35,339  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:08:35,531  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:08:35,556  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:17:50,286  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:17:50,465  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:17:50,491  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:18:38,700  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:18:38,861  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:18:38,889  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:19:02,834  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:19:02,972  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:19:02,997  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:19:20,850  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:19:21,008  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:19:21,035  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:19:47,163  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:19:47,303  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:19:47,335  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:20:02,915  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:20:03,072  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:20:03,101  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:20:08,876  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:20:08,902  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:20:08,928  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:20:12,889  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:20:12,915  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:20:12,940  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:20:18,274  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:20:18,422  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:20:18,449  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:20:32,297  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:20:32,440  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:20:32,571  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:21:22,378  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:21:22,522  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:21:22,547  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:21:49,938  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:21:50,082  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:21:50,108  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:22:11,156  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:22:11,293  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:22:11,319  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:22:14,737  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:22:14,762  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:22:14,786  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:22:52,825  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:22:52,968  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:22:52,992  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:23:17,290  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:23:17,417  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:23:17,442  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:23:41,235  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:23:41,380  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:23:41,518  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:24:25,050  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:24:25,201  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:24:25,228  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:24:39,817  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:24:39,956  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:24:39,982  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:24:50,923  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:24:51,069  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:24:51,095  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:25:24,610  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:25:24,635  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:25:24,660  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:25:42,794  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:25:42,818  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:25:42,843  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:26:48,899  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:26:49,036  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:26:49,061  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:28:43,066  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:28:43,205  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:28:43,230  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:29:43,826  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:29:43,969  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:29:43,993  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:31:26,549  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:31:26,690  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:31:26,716  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:32:49,841  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:32:49,984  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:32:50,111  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:33:07,194  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:33:07,334  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:33:07,359  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:34:28,136  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:34:28,276  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:34:28,302  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:34:35,072  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:34:35,209  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:34:35,233  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:35:02,021  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:35:02,161  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:35:02,185  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:35:15,776  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:35:15,927  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:35:15,955  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:35:31,017  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:35:31,154  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:35:31,179  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:35:35,159  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:35:35,184  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:35:35,208  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:35:44,600  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:35:44,736  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:35:44,760  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:36:35,565  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:36:35,591  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:36:35,615  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:41:33,168  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:41:33,195  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:56:29,393  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:56:29,418  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:56:29,443  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:57:22,480  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:57:22,506  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:57:22,530  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+02:59:50,244  INFO LoginDAOImpl:73 - Joe Smith signed in
+02:59:50,836  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+02:59:50,867  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:12:03,870  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:12:04,004  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:12:04,032  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:12:30,618  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:12:30,644  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:12:30,669  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:17:30,639  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:17:30,666  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:17:30,692  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:19:34,665  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:19:34,716  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:19:34,744  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:20:00,957  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:22:24,411  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:22:24,437  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:22:24,463  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:30:09,249  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:30:09,275  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:30:09,300  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:30:18,942  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:31:23,485  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:31:50,723  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:31:50,752  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:31:50,778  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:31:50,802  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:31:50,828  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:31:50,854  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:32:04,425  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:33:34,194  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:33:34,222  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:33:34,248  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:39:09,853  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:39:09,880  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:39:09,906  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:39:19,600  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:39:19,636  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:39:19,661  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:40:25,743  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:40:25,770  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:40:25,796  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:41:45,804  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:41:45,838  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:41:45,862  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:41:52,681  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:43:03,142  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:43:03,168  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:43:03,194  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:43:59,813  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:00,372  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:00,397  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:00,449  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:00,476  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:00,501  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:00,552  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:00,685  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:00,709  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:00,759  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:00,786  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:00,814  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:00,864  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:00,893  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:00,920  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:00,975  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,001  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,026  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,182  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,207  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,231  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,282  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,307  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,335  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,385  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,413  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,440  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,500  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,527  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,551  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,605  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,631  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,655  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,706  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,732  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,757  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:01,911  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:01,936  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:01,960  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,018  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,044  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,070  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,222  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,247  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,272  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,321  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,348  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,374  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,428  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,455  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,483  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,537  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,564  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,590  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,641  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,666  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,692  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,749  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,886  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:02,911  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:02,959  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:02,986  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,013  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,064  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,090  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,116  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,168  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,196  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,222  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,281  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,414  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,438  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,601  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,626  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,651  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,700  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,727  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,753  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,802  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,828  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,852  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:03,903  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:03,929  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:03,953  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,006  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,033  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,058  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,107  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,133  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,158  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,207  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,233  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,259  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,312  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,337  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,363  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,419  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,444  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,470  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,525  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,560  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,585  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,633  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,659  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,684  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,735  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,761  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,786  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,836  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,861  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,885  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:04,936  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:04,961  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:04,986  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,099  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,225  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,250  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,298  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,324  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,349  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,398  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,423  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,448  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,502  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,527  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,551  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,604  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,630  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,653  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,705  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,730  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,861  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:05,911  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:05,938  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:05,965  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,014  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,038  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,063  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,115  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,140  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,165  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,217  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,242  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,268  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,319  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,345  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,369  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,420  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,559  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,584  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,636  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,662  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,687  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,743  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,770  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,797  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,848  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,873  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,897  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:06,947  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:06,973  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:06,997  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:07,049  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:07,075  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:07,099  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:07,149  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:07,175  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:07,200  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:44:39,574  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:44:39,752  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:44:39,776  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:48:21,080  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:48:21,116  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:48:21,142  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:48:25,426  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:48:25,461  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:48:25,594  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:56:40,379  INFO LoginDAOImpl:73 - Joe Smith signed in
+04:56:40,414  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+04:56:40,439  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+04:56:51,576  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:57:33,380  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:57:38,318  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:57:54,531  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:57:56,146  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+04:58:03,514  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:02:55,008  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:02:55,042  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:02:55,067  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:02:57,203  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:02:57,229  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:02:57,254  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:03:16,063  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:05:19,841  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:05:31,552  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:07:28,959  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:07:28,999  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:07:29,028  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:07:35,431  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:07:37,752  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:07:37,779  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:07:37,804  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:09:28,211  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:09:28,238  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:09:28,264  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:09:31,725  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:09:42,285  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:10:00,292  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:15:53,954  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:15:53,982  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:15:54,006  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:15:58,974  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:16:06,770  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:17:58,093  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:18:20,851  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:19:20,772  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:22:06,148  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:22:06,174  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:22:06,199  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:22:10,166  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:35:06,312  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:35:06,419  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:35:06,443  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:36:23,818  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:36:23,977  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:36:24,001  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:40:58,587  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:40:58,708  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:40:58,735  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:42:07,642  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:42:07,764  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:42:07,789  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:43:13,365  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:43:17,767  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:43:17,795  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:43:17,821  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:51:46,890  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:51:46,919  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:51:46,943  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:51:51,398  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:53:27,067  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:53:32,727  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:53:32,755  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:53:32,782  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:54:11,957  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+05:54:13,994  INFO LoginDAOImpl:73 - Joe Smith signed in
+05:54:14,020  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+05:54:14,045  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+05:56:02,595  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:00:13,561  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:00:16,153  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:00:57,738  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:01:01,647  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:01:48,825  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:03:24,212  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:06:21,120  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:06:35,496  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:06:36,776  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:06:42,233  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:06:42,260  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:06:42,285  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:06:52,606  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:07:11,792  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:07:40,945  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:08:46,994  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:08:58,559  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:09:12,825  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:09:44,322  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:09:45,256  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:09:45,480  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:09:45,658  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:12:52,300  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:13:13,448  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:13:28,954  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:13:36,162  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:15:18,998  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:16:18,129  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:17:13,433  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:18:20,313  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:18:41,432  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:21:57,467  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:22:17,599  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:24:56,062  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:25:52,841  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:26:05,839  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:26:24,787  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:27:15,576  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:27:30,137  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:27:36,208  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:28:35,264  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:29:06,271  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:29:31,848  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:29:56,002  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:30:13,048  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:30:28,272  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:30:54,215  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:31:28,617  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:31:45,231  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:32:03,711  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:32:19,798  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:32:35,767  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:32:41,782  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:32:54,343  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:33:51,209  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:34:02,960  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:34:15,865  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:34:25,075  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:34:43,945  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:35:45,912  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:35:50,952  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:35:50,994  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:35:51,021  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:36:31,145  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:36:31,277  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:36:31,302  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:36:47,446  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:38:33,880  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:38:52,896  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:38:58,912  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:39:13,133  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:39:13,162  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:39:13,290  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:39:37,487  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:39:37,618  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:39:37,646  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:40:44,576  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:40:44,700  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:40:44,726  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:41:05,799  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:41:05,924  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:41:05,951  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:41:23,293  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:41:46,502  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:42:17,925  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:42:17,952  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:42:17,978  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:43:00,137  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:43:00,268  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:43:00,293  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:43:14,758  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:43:41,688  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:43:42,103  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:43:49,725  INFO LoginDAOImpl:76 - asd@asd.com attempted to sign in, invalid credidentials
+06:44:09,854  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+06:44:37,192  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+06:44:40,006  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+06:45:07,460  INFO LoginDAOImpl:73 - Lolly MacMickan signed in
+06:45:19,889  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:45:20,052  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:45:20,078  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:50:01,141  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:50:01,316  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:50:01,342  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:52:04,145  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:52:04,298  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:52:04,426  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:55:31,456  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:55:31,491  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:55:46,213  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:55:46,248  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:55:46,273  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:56:21,670  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:56:21,911  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:56:21,939  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:57:24,822  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:57:24,996  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:57:25,021  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:57:44,215  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:57:44,378  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:57:44,407  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:58:23,518  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:58:23,679  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:58:23,705  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:59:15,566  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:59:15,724  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:59:15,752  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+06:59:19,503  INFO LoginDAOImpl:73 - Joe Smith signed in
+06:59:19,529  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+06:59:19,554  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:00:00,831  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:00:00,985  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:00:01,012  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:01:45,231  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:01:45,385  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:01:45,414  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:02:02,446  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:02:02,474  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:02:02,502  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:02:34,146  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+07:02:35,508  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:02:35,650  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:02:35,675  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:05:31,751  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:05:31,897  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:05:31,921  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:05:41,788  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:05:41,936  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:05:42,060  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:05:49,293  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:05:49,319  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:05:49,344  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:07:14,796  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:07:14,825  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:07:14,850  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:07:58,107  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:07:58,254  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:07:58,282  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:08:58,565  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:08:58,713  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:08:58,740  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:10:07,549  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:10:07,698  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:10:07,725  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:10:17,789  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:10:17,936  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:10:17,961  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:10:42,285  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:10:42,429  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:10:42,456  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:11:05,461  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:11:05,607  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:11:05,633  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:11:22,037  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:11:22,169  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:11:22,196  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:11:33,168  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:11:33,297  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:11:33,323  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:12:21,072  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+07:12:22,498  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:12:22,524  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:12:22,550  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:23:01,322  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:23:01,348  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:23:01,373  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:24:17,246  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:24:17,364  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:24:17,388  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:25:12,632  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:25:12,660  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:25:12,685  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:25:16,848  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:25:16,873  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:25:16,898  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:25:24,258  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:25:24,285  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:25:24,310  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:25:51,277  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:25:51,304  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:25:51,328  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:25:53,299  INFO LoginDAOImpl:73 - Joe Smith signed in
+07:25:53,324  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:25:53,349  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:36:50,863  INFO LoginDAOImpl:44 - Robert Wild signed up
+07:36:50,975  INFO LoginDAOImpl:73 - Robert Wild signed in
+07:36:51,005  INFO LoginDAOImpl:82 - Userid 21 pulled pending requests
+07:36:51,030  INFO LoginDAOImpl:118 - Userid 21 pulled resolved requests
+07:49:40,496  INFO LoginDAOImpl:102 - Robert Wild signed in
+07:49:40,530  INFO LoginDAOImpl:82 - Userid 21 pulled pending requests
+07:49:40,555  INFO LoginDAOImpl:118 - Userid 21 pulled resolved requests
+07:50:19,753  INFO LoginDAOImpl:73 - Ronald Wonder updated user info
+07:50:19,860  INFO LoginDAOImpl:102 - Ronald Wonder signed in
+07:50:19,886  INFO LoginDAOImpl:82 - Userid 21 pulled pending requests
+07:50:19,910  INFO LoginDAOImpl:118 - Userid 21 pulled resolved requests
+07:51:00,449  INFO LoginDAOImpl:102 - John Smith signed in
+07:52:14,745  INFO LoginDAOImpl:102 - Joe Smith signed in
+07:52:14,774  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:52:14,800  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:52:33,599  INFO LoginDAOImpl:45 - Userid 16 made reimbursement request
+07:52:33,707  INFO LoginDAOImpl:102 - Joe Smith signed in
+07:52:33,735  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:52:33,759  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:53:00,556  INFO LoginDAOImpl:102 - John Smith signed in
+07:53:00,697  INFO LoginDAOImpl:82 - Userid 17 pulled pending requests
+07:53:00,721  INFO LoginDAOImpl:118 - Userid 17 pulled resolved requests
+07:57:40,044  INFO LoginDAOImpl:102 - Joe Smith signed in
+07:57:40,182  INFO LoginDAOImpl:82 - Userid 16 pulled pending requests
+07:57:40,206  INFO LoginDAOImpl:118 - Userid 16 pulled resolved requests
+07:57:52,354  INFO LoginDAOImpl:102 - John Smith signed in
+07:57:52,492  INFO LoginDAOImpl:82 - Userid 17 pulled pending requests
+07:57:52,516  INFO LoginDAOImpl:118 - Userid 17 pulled resolved requests
+08:00:58,698  INFO LoginDAOImpl:102 - John Smith signed in
+08:00:58,835  INFO LoginDAOImpl:82 - Userid 17 pulled pending requests
+08:00:58,860  INFO LoginDAOImpl:118 - Userid 17 pulled resolved requests
+08:02:23,900  INFO LoginDAOImpl:102 - John Smith signed in
+08:02:24,043  INFO LoginDAOImpl:82 - Userid 17 pulled pending requests
+08:02:24,067  INFO LoginDAOImpl:118 - Userid 17 pulled resolved requests
+08:05:57,651  INFO LoginDAOImpl:102 - John Smith signed in
+08:05:57,784  INFO LoginDAOImpl:82 - Userid 17 pulled pending requests
+08:05:57,808  INFO LoginDAOImpl:118 - Userid 17 pulled resolved requests
+08:07:31,060  INFO LoginDAOImpl:102 - John Smith signed in
+08:07:31,208  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:07:31,230  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:08:47,181  INFO LoginDAOImpl:102 - John Smith signed in
+08:08:47,206  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:08:47,230  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:09:17,565  INFO LoginDAOImpl:102 - John Smith signed in
+08:09:17,700  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:09:17,723  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:11:24,317  INFO LoginDAOImpl:102 - John Smith signed in
+08:11:24,565  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:11:24,587  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:11:37,314  INFO LoginDAOImpl:102 - John Smith signed in
+08:11:37,458  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:11:37,482  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:12:30,603  INFO LoginDAOImpl:102 - John Smith signed in
+08:12:30,628  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:12:30,651  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:12:38,470  INFO LoginDAOImpl:102 - John Smith signed in
+08:12:38,508  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:12:38,532  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:13:12,381  INFO LoginDAOImpl:102 - John Smith signed in
+08:13:12,528  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:13:12,553  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:13:49,388  INFO LoginDAOImpl:102 - John Smith signed in
+08:13:49,413  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:13:49,436  INFO LoginDAOImpl:190 - Userid 17 pulled resolved requests
+08:13:58,642  INFO LoginDAOImpl:102 - John Smith signed in
+08:13:58,785  INFO LoginDAOImpl:154 - Userid 17 pulled pending requests
+08:13:58,810  INFO LoginDAOImpl:191 - Userid 17 pulled resolved requests
+08:14:36,933  INFO LoginDAOImpl:102 - John Smith signed in
+08:14:36,968  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:14:36,995  INFO LoginDAOImpl:187 - Userid 17 pulled resolved requests
+08:15:32,000  INFO LoginDAOImpl:102 - John Smith signed in
+08:15:32,132  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:15:32,156  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:16:08,347  INFO LoginDAOImpl:102 - John Smith signed in
+08:16:08,373  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:16:08,401  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:16:13,523  INFO LoginDAOImpl:102 - John Smith signed in
+08:16:13,662  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:16:13,687  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:24:49,236  INFO LoginDAOImpl:102 - John Smith signed in
+08:24:49,368  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:24:49,393  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:24:49,418  INFO LoginDAOImpl:138 - 17 pulled user table
+08:25:37,293  INFO LoginDAOImpl:102 - John Smith signed in
+08:25:37,330  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:25:37,355  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:25:37,379  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:25:57,114  INFO LoginDAOImpl:102 - John Smith signed in
+08:25:57,150  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:25:57,173  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:25:57,197  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:26:54,776  INFO LoginDAOImpl:102 - John Smith signed in
+08:26:54,812  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:26:54,837  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:26:54,862  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:26:55,039  INFO LoginDAOImpl:102 - John Smith signed in
+08:26:55,065  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:26:55,090  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:26:55,114  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:26:57,697  INFO LoginDAOImpl:102 - John Smith signed in
+08:26:57,722  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:26:57,747  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:26:57,770  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:27:20,625  INFO LoginDAOImpl:102 - John Smith signed in
+08:27:20,677  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:27:20,705  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:27:20,733  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:05,004  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:05,620  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:05,649  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:05,786  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:32,555  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:32,746  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:32,772  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:32,798  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:51,741  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:51,769  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:51,795  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:51,822  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:56,483  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:56,510  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:56,535  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:56,559  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:57,313  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:57,339  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:57,365  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:57,389  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:58,261  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:58,289  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:58,314  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:58,340  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:58,770  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:58,796  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:58,928  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:58,954  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:28:59,562  INFO LoginDAOImpl:102 - John Smith signed in
+08:28:59,588  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:28:59,613  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:28:59,638  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:29:06,092  INFO LoginDAOImpl:102 - John Smith signed in
+08:29:06,266  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:29:06,293  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:29:06,320  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:33:36,228  INFO LoginDAOImpl:102 - John Smith signed in
+08:33:36,255  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:33:36,281  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:33:36,305  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:34:33,003  INFO LoginDAOImpl:102 - John Smith signed in
+08:34:33,028  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:34:33,054  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:34:33,077  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:36:06,131  INFO LoginDAOImpl:102 - John Smith signed in
+08:36:06,296  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:36:06,321  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:36:06,346  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:38:08,954  INFO LoginDAOImpl:102 - John Smith signed in
+08:38:09,140  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:38:09,167  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:38:09,194  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:43:26,157  INFO LoginDAOImpl:102 - John Smith signed in
+08:43:26,321  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:43:26,347  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:43:26,373  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:43:55,979  INFO LoginDAOImpl:102 - John Smith signed in
+08:43:56,262  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:43:56,288  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:43:56,313  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:50:11,219  INFO LoginDAOImpl:102 - John Smith signed in
+08:50:11,379  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:50:11,410  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:50:11,442  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:51:28,377  INFO LoginDAOImpl:102 - John Smith signed in
+08:51:28,535  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:51:28,562  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:51:28,586  INFO LoginDAOImpl:138 - 17 pulled employees table
+08:51:39,427  INFO LoginDAOImpl:102 - John Smith signed in
+08:51:39,584  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+08:51:39,609  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+08:51:39,634  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:04:57,400  INFO LoginDAOImpl:102 - John Smith signed in
+09:04:57,536  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:04:57,562  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:04:57,586  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:06:15,611  INFO LoginDAOImpl:102 - John Smith signed in
+09:06:15,638  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:06:15,663  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:06:15,687  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:06:24,224  INFO LoginDAOImpl:102 - John Smith signed in
+09:06:24,261  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:06:24,286  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:06:24,311  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:06:25,092  INFO LoginDAOImpl:102 - John Smith signed in
+09:06:25,117  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:06:25,141  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:06:25,166  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:06:27,031  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 7 to approve
+09:06:27,161  INFO LoginDAOImpl:102 - John Smith signed in
+09:06:27,295  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:06:27,320  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:06:27,345  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:06:36,912  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 9 to deny
+09:06:37,026  INFO LoginDAOImpl:102 - John Smith signed in
+09:06:37,054  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:06:37,086  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:06:37,113  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:06:59,750  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 13 to deny
+09:06:59,864  INFO LoginDAOImpl:102 - John Smith signed in
+09:06:59,892  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:06:59,917  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:00,057  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:02,123  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:02,148  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:02,281  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:02,309  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:03,374  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 17 to approve
+09:07:03,478  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:03,503  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:03,527  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:03,551  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:04,772  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 18 to deny
+09:07:04,897  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:04,927  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:05,066  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:05,091  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:09,472  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 20 to approve
+09:07:09,596  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:09,627  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:09,654  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:09,679  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:12,100  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 25 to deny
+09:07:12,221  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:12,247  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:12,273  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:12,298  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:13,476  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 27 to approve
+09:07:13,589  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:13,614  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:13,639  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:13,664  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:16,765  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 30 to deny
+09:07:16,877  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:16,904  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:17,034  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:17,060  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:07:48,172  INFO LoginDAOImpl:102 - John Smith signed in
+09:07:48,199  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:07:48,223  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:07:48,248  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:08:02,930  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 39 to deny
+09:08:03,055  INFO LoginDAOImpl:102 - John Smith signed in
+09:08:03,083  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:08:03,108  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:08:03,133  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:08:06,044  INFO LoginDAOImpl:212 - Userid 17 updated reimbursement request Id: 43 to approve
+09:08:06,149  INFO LoginDAOImpl:102 - John Smith signed in
+09:08:06,175  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:08:06,200  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:08:06,224  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:08:52,820  INFO LoginDAOImpl:102 - John Smith signed in
+09:08:52,846  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:08:52,871  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:08:52,895  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:08:54,410  INFO LoginDAOImpl:102 - John Smith signed in
+09:08:54,435  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:08:54,460  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:08:54,484  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:08:54,955  INFO LoginDAOImpl:102 - John Smith signed in
+09:08:55,094  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:08:55,118  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:08:55,142  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:08:55,321  INFO LoginDAOImpl:102 - John Smith signed in
+09:08:55,347  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:08:55,371  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:08:55,395  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:11:13,912  INFO LoginDAOImpl:102 - John Smith signed in
+09:11:13,938  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:11:13,963  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:11:13,987  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:11:46,775  INFO LoginDAOImpl:102 - John Smith signed in
+09:11:46,927  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:11:46,952  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:11:46,976  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:13:03,120  INFO LoginDAOImpl:102 - John Smith signed in
+09:13:03,253  INFO LoginDAOImpl:152 - Userid 17 pulled pending requests
+09:13:03,279  INFO LoginDAOImpl:186 - Userid 17 pulled resolved requests
+09:13:03,304  INFO LoginDAOImpl:138 - 17 pulled employees table
+09:17:20,756  INFO LoginDAOImpl:105 - john@gmail.com attempted to sign in, invalid credidentials
+09:18:29,668  INFO LoginDAOImpl:102 - Merle Oldacres signed in
+09:18:29,815  INFO LoginDAOImpl:82 - Userid 1 pulled pending requests
+09:18:29,941  INFO LoginDAOImpl:118 - Userid 1 pulled resolved requests
+09:18:52,511  INFO LoginDAOImpl:102 - Merle Oldacres signed in
+09:18:52,655  INFO LoginDAOImpl:82 - Userid 1 pulled pending requests
+09:18:52,680  INFO LoginDAOImpl:118 - Userid 1 pulled resolved requests
+09:19:20,733  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:19:20,759  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:19:20,783  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:19:20,808  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:19:38,056  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:19:38,081  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:19:38,217  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:19:38,242  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:20:29,120  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:20:29,244  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:20:29,269  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:20:29,294  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:20:49,839  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:20:49,957  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:20:49,982  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:20:50,007  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:21:29,095  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:21:29,123  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:21:29,147  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:21:29,171  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:21:37,272  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:21:37,298  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:21:37,323  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:21:37,347  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:21:51,800  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:21:51,917  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:21:51,941  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:21:52,079  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:21:56,711  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:21:56,736  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:21:56,760  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:21:56,784  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:22:02,942  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:22:02,969  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:22:02,994  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:22:03,018  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:22:25,680  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:22:25,794  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:22:25,818  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:22:25,842  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:22:38,249  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:22:38,350  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:22:38,374  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:22:38,398  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:25:18,560  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:25:18,789  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:25:18,812  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:25:18,837  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:25:38,320  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:25:38,442  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:25:38,469  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:25:38,493  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:26:06,976  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:26:07,096  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:26:07,119  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:26:07,144  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:26:49,791  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:26:49,907  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:26:49,931  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:26:49,956  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:27:13,703  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:27:13,819  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:27:13,845  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:27:13,872  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:30:32,081  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:30:32,133  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:30:32,163  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:30:32,190  INFO LoginDAOImpl:138 - 6 pulled employees table
+09:40:18,333  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+09:40:18,387  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
+09:40:18,417  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
+09:40:18,443  INFO LoginDAOImpl:138 - 6 pulled employees table
