@@ -1,6 +1,6 @@
 <h1>P.1 Raingate</h1>
 
-This is a console-based banking application that I (Gideon Driver) have created while learning from Mohammad Tufail.
+This is a web-based reimbursement system that I (Gideon Driver) have created while learning from Mohammad Tufail.
 
 <hr/>
 Project Requirements:

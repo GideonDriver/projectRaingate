@@ -1794,3 +1794,13 @@
 09:40:18,387  INFO LoginDAOImpl:152 - Userid 6 pulled pending requests
 09:40:18,417  INFO LoginDAOImpl:186 - Userid 6 pulled resolved requests
 09:40:18,443  INFO LoginDAOImpl:138 - 6 pulled employees table
+11:19:36,494  INFO LoginDAOImpl:105 - asd@asd.com attempted to sign in, invalid credidentials
+11:21:02,166  WARN LoginDAOImpl:70 - Joe Miller failed to update user info
+11:22:32,832  WARN LoginDAOImpl:70 - Joe Miller failed to update user info
+11:23:40,730  WARN LoginDAOImpl:70 - Joe Miller failed to update user info
+11:25:54,377  WARN LoginDAOImpl:70 - Joe Miller failed to update user info
+11:27:13,791  WARN LoginDAOImpl:70 - Joe Miller failed to update user info
+11:29:01,205  INFO LoginDAOImpl:44 - Joe Miller signed up
+11:29:01,370  INFO LoginDAOImpl:102 - Joe Miller signed in
+11:29:01,981  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+11:29:02,008  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests

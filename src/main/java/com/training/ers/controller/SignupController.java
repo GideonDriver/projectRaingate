@@ -46,7 +46,7 @@ public class SignupController extends HttpServlet {
 		String password1 = request.getParameter("password");
 		boolean result;
 
-		if (session.getAttribute("userId").equals(null)) {
+		if ((int)session.getAttribute("userId") == 0) {
 
 			User newUser = new User(-1, firstName1, lastName1, email1, password1, "employee", true);
 			LoginDAO loginDAO = new LoginDAOImpl();
@@ -70,7 +70,7 @@ public class SignupController extends HttpServlet {
 		dispatcherHeader.include(request, response);
 
 		out.println(
-				"<button onclick=\"location.href = 'login.html';\" id=\"home\" class=\"btn btn-primary btn-lg\" >Login</button>&nbsp;&nbsp;");
+				"<center><button onclick=\"location.href = 'login.html';\" id=\"home\" class=\"btn btn-primary btn-lg\" >Login</button>&nbsp;&nbsp;");
 		out.println(
 				"<button onclick=\"location.href = 'index.jsp';\" id=\"home\" class=\"btn btn-primary btn-lg\" >Home</button><br/><br/><br/>");
 		if (result) {
@@ -80,6 +80,7 @@ public class SignupController extends HttpServlet {
 		} else {
 			out.println("<font class=\"alert alert-danger\">Registration failed</font>");
 		}
+		out.println("</center>");
 
 	}
 
