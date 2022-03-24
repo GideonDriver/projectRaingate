@@ -22,6 +22,25 @@
 	integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
 	crossorigin="anonymous">
 <script type="text/javascript">
+	function runOnLoad() {
+		navSelection()
+		setStatusColor()
+	}
+	function setStatusColor() {
+		var allDenied = document.querySelectorAll('.denied');
+		var allApproved = document.querySelectorAll('.approved');
+		var allPending = document.querySelectorAll('.pending');
+		
+		for (var i=0, max=allDenied.length; i < max; i++) {
+			allDenied[i].innerHTML = '<span class=\"btn btn-danger btn-sm disabled\">Denied<span>';
+		}
+		for (var i=0, max=allApproved.length; i < max; i++) {
+			allApproved[i].innerHTML = '<span class=\"btn btn-success btn-sm disabled\">Approved<span>';
+		}
+		for (var i=0, max=allPending.length; i < max; i++) {
+			allPending[i].innerHTML = '<span class=\"btn btn-warning btn-sm disabled\">Pending<span>';
+		}
+	}
 	function logout() {
 		session = null;
 		location.href = 'index.jsp';
@@ -84,7 +103,8 @@
 	}
 	
 	function navSelection() {
-		if (1 == 3) {
+		var navSelection = <%= session.getAttribute("navSelection") %>;
+		if (navSelection == 3) {
 			showRequestsByEmployee()
 		} else {
 			showPendingRequests()
@@ -124,7 +144,7 @@
 <style type="text/css">
 </style>
 </head>
-<body onload="navSelection()">
+<body onload="runOnLoad()">
 	<center>
 		<table cellspacing="10" cellpadding="1" border="0">
 			<td width="1000px" align="center">
@@ -146,10 +166,10 @@
 				%>
 
 				<div class="btn-group" role="group" aria-label="Basic example">
-					<button type="button" id="navBtn1" onclick="showPendingRequests()" class="btn btn-secondary active">Pending Requests</button>
-					<button type="button" id="navBtn2" onclick="showResolvedRequests()" class="btn btn-secondary">Resolved Requests</button>
-					<button type="button" id="navBtn3" onclick="showRequestsByEmployee()" class="btn btn-secondary">Requests by Employee</button>
-					<button type="button" id="navBtn4" onclick="showEmployeeInfo()" class="btn btn-secondary">All Employee Info</button>
+					<button type="button" id="navBtn1" onclick="showPendingRequests()" class="btn btn-info active">Pending Requests</button>
+					<button type="button" id="navBtn2" onclick="showResolvedRequests()" class="btn btn-info">Resolved Requests</button>
+					<button type="button" id="navBtn3" onclick="showRequestsByEmployee()" class="btn btn-info">Requests by Employee</button>
+					<button type="button" id="navBtn4" onclick="showEmployeeInfo()" class="btn btn-info">All Employee Info</button>
 				</div>
 
 
@@ -176,7 +196,7 @@
 							<td><%=pendingRequest.getRequesterId() %></td>
 							<td><%=pendingRequest.getReason()%></td>
 							<td><%=pendingRequest.getFormattedAmount()%></td>
-							<td><%=(pendingRequest.getNote() == null) ? "NA" : pendingRequest.getNote()%></td>
+							<td><%=(pendingRequest.getNote() == null) ? "" : pendingRequest.getNote()%></td>
 							<td>
 								<button type="button" onclick="updateRequest(<%=pendingRequest.getReimbursementId()%>, 'approve')" class="btn btn-success btn-sm">Approve</button>
 								<button type="button" onclick="updateRequest(<%=pendingRequest.getReimbursementId()%>, 'deny')" class="btn btn-danger btn-sm">Deny</button>
@@ -213,8 +233,8 @@
 							<td><%=resolvedRequest.getRequesterId() %></td>
 							<td><%=resolvedRequest.getReason()%></td>
 							<td><%=resolvedRequest.getFormattedAmount()%></td>
-							<td><%=(resolvedRequest.getNote() == null) ? "NA" : resolvedRequest.getNote()%></td>
-							<td><%=resolvedRequest.getStatus()%></td>
+							<td><%=(resolvedRequest.getNote() == null) ? "" : resolvedRequest.getNote()%></td>
+							<td class="<%=resolvedRequest.getStatus()%>"><%=resolvedRequest.getStatus()%></td>
 							<td><%=resolvedRequest.getDateTime().substring(0, 19)%></td>
 						</tr>
 						<%
@@ -242,7 +262,6 @@
 										</div>
 									</div>
 									</td></tr></table>
-					<br />
 
 					<table class="table table-striped table-dark">
 						<tr>
@@ -263,8 +282,8 @@
 							<td><%=allRequest.getRequesterId() %></td>
 							<td><%=allRequest.getReason()%></td>
 							<td><%=allRequest.getFormattedAmount()%></td>
-							<td><%=(allRequest.getNote() == null) ? "NA" : allRequest.getNote()%></td>
-							<td><%=allRequest.getStatus()%></td>
+							<td><%=(allRequest.getNote() == null) ? "" : allRequest.getNote()%></td>
+							<td class="<%=allRequest.getStatus()%>"><%=allRequest.getStatus()%></td>
 							<td><%=allRequest.getDateTime().substring(0, 19)%></td>
 						</tr>
 						<%

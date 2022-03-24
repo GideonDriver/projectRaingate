@@ -56,8 +56,10 @@ public class LoginController extends HttpServlet {
 		session.setAttribute("accountType", currentUser.getAccountType());
 		session.setAttribute("active", currentUser.isActive());
 		System.out.println(currentUser);
-
-		session.setAttribute("navSelection", 1);
+		
+		if (session.getAttribute("navSelection") == null) {
+			session.setAttribute("navSelection", 1);
+		}
 		
 		RequestDispatcher dispatcherHeader = request.getRequestDispatcher("menuHeader.jsp");
 		dispatcherHeader.include(request, response);
@@ -79,6 +81,7 @@ public class LoginController extends HttpServlet {
 		}
 		out.println("</center>");
 		out.println("</html></body>");
+		session.setAttribute("navSelection", 1);
 	}
 
 }

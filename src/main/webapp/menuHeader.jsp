@@ -39,13 +39,13 @@
 					</td>
 					<td>
 						<button onclick="logout()" id="logout"
-							class="btn btn-warning btn-sm">Logout</button>
+							class="btn btn-secondary btn-sm">Logout</button>
 					</td>
 				</tr>
 				<tr>
 					<td>
 						<button onclick="location.href = 'editProfile.jsp'"
-							id="logout" class="btn btn-warning btn-sm">Edit Profile</button>
+							id="logout" class="btn btn-secondary btn-sm">Edit Profile</button>
 					</td>
 				</tr>
 			</table>

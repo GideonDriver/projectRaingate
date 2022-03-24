@@ -18,6 +18,24 @@
 	integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
 	crossorigin="anonymous">
 <script type="text/javascript">
+	function runOnLoad() {
+		 setStatusColor()
+	}
+	function setStatusColor() {
+		var allDenied = document.querySelectorAll('.denied');
+		var allApproved = document.querySelectorAll('.approved');
+		var allPending = document.querySelectorAll('.pending');
+		
+		for (var i=0, max=allDenied.length; i < max; i++) {
+			allDenied[i].innerHTML = '<span class=\"btn btn-danger btn-sm disabled\">Denied<span>';
+		}
+		for (var i=0, max=allApproved.length; i < max; i++) {
+			allApproved[i].innerHTML = '<span class=\"btn btn-success btn-sm disabled\">Approved<span>';
+		}
+		for (var i=0, max=allPending.length; i < max; i++) {
+			allPending[i].innerHTML = '<span class=\"btn btn-warning btn-sm disabled\">Pending<span>';
+		}
+	}
 	function logout() {
 		session = null;
 		location.href = 'index.jsp';
@@ -92,7 +110,7 @@
 <style type="text/css">
 </style>
 </head>
-<body>
+<body onload="runOnLoad()">
 	<center>
 		<table cellspacing="10" cellpadding="1" border="0">
 			<td width="1000px" align="center">
@@ -106,11 +124,11 @@
 
 				<div class="btn-group" role="group" aria-label="Basic example">
 					<button type="button" id="navBtn1" onclick="showNewRequestForm()"
-						class="btn btn-secondary active">New Request</button>
+						class="btn btn-info active">New Request</button>
 					<button type="button" id="navBtn2" onclick="showPendingRequests()"
-						class="btn btn-secondary">Pending Requests</button>
+						class="btn btn-info">Pending Requests</button>
 					<button type="button" id="navBtn3" onclick="showResolvedRequests()"
-						class="btn btn-secondary">Resolved Requests</button>
+						class="btn btn-info">Resolved Requests</button>
 				</div>
 
 
@@ -128,7 +146,7 @@
 										<div class="input-group-prepend">
 											<label class="input-group-text" for="reason">Reason</label>
 										</div>
-										<select class="custom-select input-group-text btn-light"
+										<select class="custom-select custom-select-lg btn-light"
 											name="reason" id="reason">
 											<option selected value="0">Select...</option>
 											<option>Gas</option>
@@ -213,8 +231,8 @@
 							<%-- 		<td><%= pendingRequest.getRequesterId() %></td> --%>
 							<td><%=pendingRequest.getReason()%></td>
 							<td><%=pendingRequest.getFormattedAmount()%></td>
-							<td><%=(pendingRequest.getNote() == null) ? "NA" : pendingRequest.getNote()%></td>
-							<td><%=pendingRequest.getStatus()%></td>
+							<td><%=(pendingRequest.getNote() == null) ? "" : pendingRequest.getNote()%></td>
+							<td class="<%=pendingRequest.getStatus()%>"><%=pendingRequest.getStatus()%></td>
 							<td><%=pendingRequest.getDateTime().substring(0, 19)%></td>
 						</tr>
 						<%
@@ -247,8 +265,8 @@
 							<%-- 		<td><%= resolvedRequest.getRequesterId() %></td> --%>
 							<td><%=resolvedRequest.getReason()%></td>
 							<td><%=resolvedRequest.getFormattedAmount()%></td>
-							<td><%=(resolvedRequest.getNote() == null) ? "NA" : resolvedRequest.getNote()%></td>
-							<td><%=resolvedRequest.getStatus()%></td>
+							<td><%=(resolvedRequest.getNote() == null) ? "" : resolvedRequest.getNote()%></td>
+							<td class="<%=resolvedRequest.getStatus()%>"><%=resolvedRequest.getStatus()%></td>
 							<td><%=resolvedRequest.getDateTime().substring(0, 19)%></td>
 						</tr>
 						<%
