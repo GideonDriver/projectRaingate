@@ -14,15 +14,14 @@ active boolean default true
 
 select * from users;
 
-
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Merle', 'Oldacres', 'moldacres0@europa.eu', 'qwerty321', 'employee', true);
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Heidi', 'Beamson', 'hbeamson1@sourceforge.net', 'thispass', 'employee', true);
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Errol', 'Dandison', 'edandison2@phpbb.com', 'password123', 'employee', true);
-insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Torry', 'Bariball', 'tbariball3@squidoo.com', 'password123', 'manager', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Torry', 'Bariball', 'tbariball3@squidoo.com', 'password123', 'employee', true);
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Woodman', 'Ritmeyer', 'writmeyer4@indiegogo.com', 'password123', 'employee', true);
-insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Jemmy', 'Redmond', 'jredmond5@dagondesign.com', 'qwerty321', 'manager', true);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Jemmy', 'Redmond', 'admin@revature.com', 'adminpass', 'manager', true);
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Dinnie', 'Hefner', 'dhefner6@geocities.com', 'thatpass', 'manager', false);
-insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Leupold', 'Eddowis', 'leddowis7@symantec.com', 'thatpass', 'employee', false);
+insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Leupold', 'Eddowis', 'leddowis7@symantec.com', 'thatpass', 'manager', false);
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Gustaf', 'Beumant', 'gbeumant8@jalbum.net', 'qwerty321', 'manager', true);
 insert into users (userId, firstName, lastName, email, password, accountType, active) values (default, 'Sydney', 'Colls', 'scolls9@nymag.com', 'thispass', 'manager', true);
 

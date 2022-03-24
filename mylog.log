@@ -2585,3 +2585,87 @@
 13:26:18,562  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
 13:26:18,588  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
 13:26:18,613  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:37:14,746  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:37:14,909  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:37:14,937  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:37:14,964  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:37:14,991  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:37:51,529  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:37:51,688  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:37:51,712  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:37:51,738  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:37:51,762  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:38:49,922  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:38:50,089  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:38:50,117  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:38:50,145  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:38:50,172  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:39:34,770  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:39:34,923  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:39:34,949  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:39:34,974  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:39:35,001  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:40:32,163  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:40:32,318  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:40:32,343  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:40:32,367  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:40:32,394  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:42:47,908  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:42:48,068  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:42:48,094  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:42:48,119  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:42:48,145  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:43:53,587  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:43:53,741  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:43:53,768  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:43:53,794  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:43:53,822  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:45:05,305  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:45:05,458  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:45:05,484  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:45:05,509  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:45:05,534  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:45:54,891  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:45:55,035  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:45:55,061  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:45:55,089  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:45:55,115  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:46:05,770  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:46:05,913  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:46:05,944  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:46:05,969  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:46:05,995  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:47:32,298  INFO LoginDAOImpl:102 - Joe Miller signed in
+13:47:32,440  INFO LoginDAOImpl:82 - Userid 12 pulled pending requests
+13:47:32,466  INFO LoginDAOImpl:118 - Userid 12 pulled resolved requests
+13:47:47,154  INFO LoginDAOImpl:102 - Merle Oldacres signed in
+13:47:47,186  INFO LoginDAOImpl:82 - Userid 1 pulled pending requests
+13:47:47,213  INFO LoginDAOImpl:118 - Userid 1 pulled resolved requests
+13:48:28,586  INFO LoginDAOImpl:105 - markus@admin.com attempted to sign in, invalid credidentials
+13:48:35,684  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:48:35,710  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:48:35,736  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:48:35,762  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:48:35,788  INFO LoginDAOImpl:138 - 11 pulled employees table
+13:53:00,470  INFO LoginDAOImpl:247 - Userid 11 updated reimbursement request Id: 17 to approve
+13:53:00,567  INFO LoginDAOImpl:102 - Markus Pearson signed in
+13:53:00,595  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+13:53:00,624  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+13:53:00,650  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+13:53:00,676  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:02:42,345  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:02:42,503  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:02:42,529  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:02:42,554  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+14:02:42,580  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:03:00,834  INFO LoginDAOImpl:102 - Markus Pearson signed in
+14:03:00,990  INFO LoginDAOImpl:187 - Userid 11 pulled pending requests
+14:03:01,020  INFO LoginDAOImpl:221 - Userid 11 pulled resolved requests
+14:03:01,046  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+14:03:01,072  INFO LoginDAOImpl:138 - 11 pulled employees table
+14:05:56,290  INFO LoginDAOImpl:105 - markus@admin.com attempted to sign in, invalid credidentials
+14:06:05,987  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+14:06:06,015  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+14:06:06,041  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+14:06:06,066  INFO LoginDAOImpl:153 - Userid 1 pulled resolved requests
+14:06:06,089  INFO LoginDAOImpl:138 - 6 pulled employees table
