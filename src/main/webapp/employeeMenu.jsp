@@ -37,8 +37,7 @@
 		}
 	}
 	function logout() {
-		session = null;
-		location.href = 'index.jsp';
+		location.href = 'logout.jsp';
 	}
 	function reload() {
 		location.reload();

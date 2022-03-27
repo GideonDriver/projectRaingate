@@ -42,8 +42,7 @@
 		}
 	}
 	function logout() {
-		session = null;
-		location.href = 'index.jsp';
+		location.href = 'logout.jsp';
 	}
 	function reload() {
 		location.reload();
@@ -198,8 +197,8 @@
 							<td><%=pendingRequest.getFormattedAmount()%></td>
 							<td><%=(pendingRequest.getNote() == null) ? "" : pendingRequest.getNote()%></td>
 							<td>
-								<button type="button" onclick="updateRequest(<%=pendingRequest.getReimbursementId()%>, 'approve')" class="btn btn-success btn-sm">Approve</button>
-								<button type="button" onclick="updateRequest(<%=pendingRequest.getReimbursementId()%>, 'deny')" class="btn btn-danger btn-sm">Deny</button>
+								<button type="button" onclick="updateRequest(<%=pendingRequest.getReimbursementId()%>, 'approved')" class="btn btn-success btn-sm">Approve</button>
+								<button type="button" onclick="updateRequest(<%=pendingRequest.getReimbursementId()%>, 'denied')" class="btn btn-danger btn-sm">Deny</button>
 							</td>
 							<td><%=pendingRequest.getDateTime().substring(0, 19)%></td>
 						</tr>

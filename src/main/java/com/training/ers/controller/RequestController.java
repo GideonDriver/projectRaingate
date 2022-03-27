@@ -44,7 +44,7 @@ public class RequestController extends HttpServlet {
 		HttpSession session = request.getSession();
 		boolean result;
 
-		if (request.getParameter("requestType").equals("updateRequest")) {
+		if (request.getParameter("requestType") != null && request.getParameter("requestType").equals("updateRequest")) {
 
 			int reimbursementId = Integer.parseInt(request.getParameter("reimbursementId"));
 			String status = request.getParameter("status");
@@ -53,7 +53,7 @@ public class RequestController extends HttpServlet {
 			RequestsDAO requestsDAO = new RequestsDAOImpl();
 			result = requestsDAO.updateStatus(reimbursementId, status, userId);
 
-		} else if (request.getParameter("requestType").equals("searchRequest")) {
+		} else if (request.getParameter("requestType") != null && request.getParameter("requestType").equals("searchRequest")) {
 
 			session.setAttribute("searchUserId", Integer.parseInt(request.getParameter("userId")));
 			session.setAttribute("navSelection", 3);

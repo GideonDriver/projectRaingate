@@ -46,7 +46,7 @@ public class SignupController extends HttpServlet {
 		String password1 = request.getParameter("password");
 		boolean result;
 
-		if ((int)session.getAttribute("userId") == 0) {
+		if (session.getAttribute("userId") == null || (int)session.getAttribute("userId") == 0) {
 
 			User newUser = new User(-1, firstName1, lastName1, email1, password1, "employee", true);
 			LoginDAO loginDAO = new LoginDAOImpl();
