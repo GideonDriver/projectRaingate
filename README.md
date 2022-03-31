@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Do you need a web-based application for your employees to make reimbursement requests? It can be difficult to manage these requests, but Raingate has you covered! It's easy for employees to create an account, send in requests and view their ongoing/resolved requests. And managers can easily view and deal with those requests.
+Do you need a web-based application for your employees to make reimbursement requests? It can be difficult to manage these requests, but Raingate has you covered! It's easy for employees to create an account, send in requests and view their ongoing/resolved requests. And managers can easily view and approve/deny those requests.
 
 ## Technologies Used
 
