@@ -2805,3 +2805,117 @@
 19:13:42,736  INFO LoginDAOImpl:102 - Ryan Holt signed in
 19:13:42,762  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
 19:13:42,786  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+19:15:05,455  INFO LoginDAOImpl:102 - Ryan Holt signed in
+19:15:05,507  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+19:15:05,535  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+19:15:15,176  INFO LoginDAOImpl:45 - Userid 11 made reimbursement request
+19:15:15,272  INFO LoginDAOImpl:102 - Ryan Holt signed in
+19:15:15,299  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+19:15:15,324  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+19:15:19,758  INFO LoginDAOImpl:45 - Userid 11 made reimbursement request
+19:15:19,856  INFO LoginDAOImpl:102 - Ryan Holt signed in
+19:15:19,882  INFO LoginDAOImpl:82 - Userid 11 pulled pending requests
+19:15:19,907  INFO LoginDAOImpl:118 - Userid 11 pulled resolved requests
+19:15:28,801  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:15:29,438  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:15:29,468  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:15:29,495  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:15:29,521  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:15:33,958  INFO LoginDAOImpl:247 - Userid 6 updated reimbursement request Id: 44 to approved
+19:15:34,051  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:15:34,079  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:15:34,106  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:15:34,131  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:15:34,156  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:15:35,510  INFO LoginDAOImpl:247 - Userid 6 updated reimbursement request Id: 43 to denied
+19:15:35,602  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:15:35,627  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:15:35,653  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:15:35,677  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:15:35,702  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:16:01,547  INFO LoginDAOImpl:44 - asdk asfdjkhn signed up
+19:16:01,648  INFO LoginDAOImpl:102 - asdk asfdjkhn signed in
+19:16:01,675  INFO LoginDAOImpl:82 - Userid 13 pulled pending requests
+19:16:01,701  INFO LoginDAOImpl:118 - Userid 13 pulled resolved requests
+19:16:08,845  INFO LoginDAOImpl:45 - Userid 13 made reimbursement request
+19:16:08,939  INFO LoginDAOImpl:102 - asdk asfdjkhn signed in
+19:16:08,965  INFO LoginDAOImpl:82 - Userid 13 pulled pending requests
+19:16:08,991  INFO LoginDAOImpl:118 - Userid 13 pulled resolved requests
+19:16:33,857  INFO LoginDAOImpl:73 - John Glen updated user info
+19:16:33,963  INFO LoginDAOImpl:102 - John Glen signed in
+19:16:33,989  INFO LoginDAOImpl:82 - Userid 13 pulled pending requests
+19:16:34,014  INFO LoginDAOImpl:118 - Userid 13 pulled resolved requests
+19:19:57,016  INFO LoginDAOImpl:44 - Kay Driver signed up
+19:19:57,142  INFO LoginDAOImpl:102 - Kay Driver signed in
+19:19:57,168  INFO LoginDAOImpl:82 - Userid 14 pulled pending requests
+19:19:57,193  INFO LoginDAOImpl:118 - Userid 14 pulled resolved requests
+19:20:21,293  INFO LoginDAOImpl:45 - Userid 14 made reimbursement request
+19:20:21,403  INFO LoginDAOImpl:102 - Kay Driver signed in
+19:20:21,429  INFO LoginDAOImpl:82 - Userid 14 pulled pending requests
+19:20:21,454  INFO LoginDAOImpl:118 - Userid 14 pulled resolved requests
+19:20:56,070  INFO LoginDAOImpl:73 - Lynette Driver updated user info
+19:20:56,177  INFO LoginDAOImpl:102 - Lynette Driver signed in
+19:20:56,203  INFO LoginDAOImpl:82 - Userid 14 pulled pending requests
+19:20:56,227  INFO LoginDAOImpl:118 - Userid 14 pulled resolved requests
+19:21:12,590  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:21:12,617  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:21:12,642  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:21:12,667  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:21:12,691  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:21:28,189  INFO LoginDAOImpl:247 - Userid 6 updated reimbursement request Id: 46 to approved
+19:21:28,299  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:21:28,326  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:21:28,352  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:21:28,376  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:21:28,400  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:21:41,670  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:21:41,697  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:21:41,722  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:21:41,747  INFO LoginDAOImpl:153 - Userid 14 pulled resolved requests
+19:21:41,773  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:22:18,721  INFO LoginDAOImpl:102 - Heidi Beamson signed in
+19:22:18,748  INFO LoginDAOImpl:82 - Userid 2 pulled pending requests
+19:22:18,773  INFO LoginDAOImpl:118 - Userid 2 pulled resolved requests
+19:24:09,408  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:24:09,436  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:24:09,461  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:24:09,485  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:24:09,511  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:25:13,470  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:25:13,497  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:25:13,523  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:25:13,548  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:25:13,573  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:25:33,546  INFO LoginDAOImpl:44 - Daryl Driver signed up
+19:25:33,639  INFO LoginDAOImpl:102 - Daryl Driver signed in
+19:25:33,665  INFO LoginDAOImpl:82 - Userid 15 pulled pending requests
+19:25:33,689  INFO LoginDAOImpl:118 - Userid 15 pulled resolved requests
+19:25:41,944  INFO LoginDAOImpl:102 - Daryl Driver signed in
+19:25:41,971  INFO LoginDAOImpl:82 - Userid 15 pulled pending requests
+19:25:41,995  INFO LoginDAOImpl:118 - Userid 15 pulled resolved requests
+19:26:59,284  INFO LoginDAOImpl:45 - Userid 15 made reimbursement request
+19:26:59,395  INFO LoginDAOImpl:102 - Daryl Driver signed in
+19:26:59,421  INFO LoginDAOImpl:82 - Userid 15 pulled pending requests
+19:26:59,445  INFO LoginDAOImpl:118 - Userid 15 pulled resolved requests
+19:27:14,850  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:27:14,876  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:27:14,900  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:27:14,924  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:27:14,949  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:27:22,500  INFO LoginDAOImpl:247 - Userid 6 updated reimbursement request Id: 47 to approved
+19:27:22,575  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:27:22,602  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:27:22,626  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:27:22,651  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:27:22,674  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:27:23,684  INFO LoginDAOImpl:247 - Userid 6 updated reimbursement request Id: 45 to denied
+19:27:23,758  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:27:23,784  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:27:23,808  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:27:23,831  INFO LoginDAOImpl:153 - Userid 0 pulled resolved requests
+19:27:23,855  INFO LoginDAOImpl:138 - 6 pulled employees table
+19:27:31,749  INFO LoginDAOImpl:102 - Jemmy Redmond signed in
+19:27:31,776  INFO LoginDAOImpl:187 - Userid 6 pulled pending requests
+19:27:31,800  INFO LoginDAOImpl:221 - Userid 6 pulled resolved requests
+19:27:31,824  INFO LoginDAOImpl:153 - Userid 15 pulled resolved requests
+19:27:31,848  INFO LoginDAOImpl:138 - 6 pulled employees table

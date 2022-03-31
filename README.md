@@ -1,64 +1,48 @@
-<h1>P.1 Raingate</h1>
+# P.1 Raingate
 
-This is a web-based reimbursement system that I (Gideon Driver) have created while learning from Mohammad Tufail.
+## Project Description
 
-<hr/>
-Project Requirements:
+Do you need a web-based application for your employees to make reimbursement requests? It can be difficult to manage these requests, but Raingate has you covered! It's easy for employees to create an account, send in requests and view their ongoing/resolved requests. And managers can easily view and deal with those requests.
 
-Expense Reimbursement System (ERS)-TA
+## Technologies Used
 
-The Expense Reimbursement System will manage the process of reimbursing employees for expenses incurred while on company time. 
-All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. 
-Finance managers can log in and view all reimbursement requests and history for all employees in the company. 
-Finance managers are authorized to approve and deny requests for expense reimbursement. 
+* Java 1.8
+* Servlets
+* JDBC
+* SQL
+* PL/SQL
+* HTML/CSS
+* Bootstrap
+* JavaScript
+* AJAX
+* JUnit
+* Log4j
 
-Mandatory Requirements 
-
-An Employee can: 
-• Login. 
-• View the employee home page. 
-• Logout. 
-• Submit a reimbursement request. 
-• View their pending reimbursement requests. 
-• View their resolved reimbursement requests. 
-• View their information. 
-• Update their information. 
-
-A Manager can: 
-• Login. 
-• View the manager home page. 
-• Logout. 
-• Approve/Deny pending reimbursement requests. 
-• View all pending requests of all employees. 
-• View all resolved requests of all employees. 
-• View reimbursement requests of a specific employee. 
-• View all employees.
-
-Optional Requirements
+## Features
 
 An Employee can: 
-• Upload an image of his/her receipt as part of the reimbursement request.
-• Recieve an email when one of their reimbursement requests is resolved.
-• Reset their password.
+* Login. 
+* View the employee home page. 
+* Logout. 
+* Submit a reimbursement request. 
+* View their pending reimbursement requests. 
+* View their resolved reimbursement requests. 
+* View their information. 
+* Update their information. 
 
 A Manager can: 
-• View an image of the receipt of a reimbursement request. 
-• Register an employee and send an email to that employee with his credentials.
+* Login. 
+* View the manager home page. 
+* Logout. 
+* Approve/Deny pending reimbursement requests. 
+* View all pending requests of all employees. 
+* View all resolved requests of all employees. 
+* View reimbursement requests of a specific employee. 
+* View all employees.
 
-Technologies: 
-• Java 1.8
-• Servlets
-• JDBC
-• SQL
-• PL/SQL
-• HTML/CSS
-• Bootstrap
-• JavaScript
-• AJAX
-• JUnit
-• Java Mail
-• Log4j
-
-Environment: 
-• Tomcat. 
-• Oracle 11g Database.
+## Getting Started
+   
+1. Run git clone command in terminal: git clone https://github.com/GideonDriver/raingate
+2. Update db.properties file with you PostgreSQL username & password
+3. Run the two create table commands (available in Postgresql Commands.txt) in your database administration tool (I used DBeaver 22.0.0)
+4. There are also example users you can add in the Postgresql Commands.txt file, modify one of these and run it to create a manager account.
