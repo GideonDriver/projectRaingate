@@ -42,7 +42,7 @@ A Manager can:
 
 ## Getting Started
    
-1. Run git clone command in terminal: git clone https://github.com/GideonDriver/raingate
+1. Run git clone command in terminal: `git clone https://github.com/GideonDriver/raingate`
 2. Update db.properties file with you PostgreSQL username & password
-3. Run the two create table commands (available in Postgresql Commands.txt) in your database administration tool (I used DBeaver 22.0.0)
+3. Run the two (2) create table commands (available in Postgresql Commands.txt) in your database administration tool (I used DBeaver 22.0.0)
 4. There are also example users you can add in the Postgresql Commands.txt file, modify one of these and run it to create a manager account.
